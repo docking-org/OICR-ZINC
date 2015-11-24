@@ -1,0 +1,6 @@
+# create a new version
+./make-conditions.csh
+./make-drugs.csh
+./make-genes.csh
+./make-tools.csh
+./make-trials.csh
