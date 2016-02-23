@@ -1,5 +1,4 @@
 {"name": "5HT1A_HUMAN", "description": "Serotonin 1a (5-HT1a) receptor", "uniprot": "P08908", "chembl": "CHEMBL214", "gene_name": "HTR1A"}
-{"name": "5HT1A_RAT", "description": "Serotonin 1a (5-HT1a) receptor", "uniprot": "P19327", "chembl": "CHEMBL273", "gene_name": "HTR1A"}
 {"name": "5HT1B_HUMAN", "description": "Serotonin 1b (5-HT1b) receptor", "uniprot": "P28222", "chembl": "CHEMBL1898", "gene_name": "HTR1B"}
 {"name": "5HT1D_HUMAN", "description": "Serotonin 1d (5-HT1d) receptor", "uniprot": "P28221", "chembl": "CHEMBL1983", "gene_name": "HTR1D"}
 {"name": "5HT2A_HUMAN", "description": "Serotonin 2a (5-HT2a) receptor", "uniprot": "P28223", "chembl": "CHEMBL224", "gene_name": "HTR2A"}
@@ -7,17 +6,13 @@
 {"name": "5HT2C_HUMAN", "description": "Serotonin 2c (5-HT2c) receptor", "uniprot": "P28335", "chembl": "CHEMBL225", "gene_name": "HTR2C"}
 {"name": "5HT3A_HUMAN", "description": "Serotonin 3a (5-HT3a) receptor", "uniprot": "P46098", "chembl": "CHEMBL1899", "gene_name": "HTR3A"}
 {"name": "5HT3B_HUMAN", "description": "Serotonin 3b (5-HT3b) receptor", "uniprot": "O95264", "chembl": "CHEMBL3895", "gene_name": "HTR3B"}
-{"name": "5HT4R_CAVPO", "description": "Serotonin 4 (5-HT4) receptor", "uniprot": "O70528", "chembl": "CHEMBL5017", "gene_name": "HTR4"}
 {"name": "5HT4R_HUMAN", "description": "Serotonin 4 (5-HT4) receptor", "uniprot": "Q13639", "chembl": "CHEMBL1875", "gene_name": "HTR4"}
 {"name": "5HT5A_HUMAN", "description": "Serotonin 5a (5-HT5a) receptor", "uniprot": "P47898", "chembl": "CHEMBL3426", "gene_name": "HTR5A"}
 {"name": "5HT6R_HUMAN", "description": "Serotonin 6 (5-HT6) receptor", "uniprot": "P50406", "chembl": "CHEMBL3371", "gene_name": "HTR6"}
 {"name": "5HT7R_HUMAN", "description": "Serotonin 7 (5-HT7) receptor", "uniprot": "P34969", "chembl": "CHEMBL3155", "gene_name": "HTR7"}
 {"name": "6PGD_HUMAN", "description": "6-phosphogluconate dehydrogenase", "uniprot": "P52209", "chembl": "CHEMBL3404", "gene_name": "PGD"}
-{"name": "A3EZI9_9HEPC", "description": "Hepatitis C virus NS3 protease/helicase", "uniprot": "A3EZI9", "chembl": "CHEMBL4893", "gene_name": "NS3"}
 {"name": "A4_HUMAN", "description": "Beta amyloid A4 protein", "uniprot": "P05067", "chembl": "CHEMBL2487", "gene_name": "APP"}
-{"name": "A6YCJ1_9METZ", "description": "Astrosclerin-3", "uniprot": "A6YCJ1", "chembl": "CHEMBL1944499", "gene_name": "A6YCJ1_9METZ"}
 {"name": "AA1R_HUMAN", "description": "Adenosine A1 receptor", "uniprot": "P30542", "chembl": "CHEMBL226", "gene_name": "ADORA1"}
-{"name": "AA1R_RAT", "description": "Adenosine A1 receptor", "uniprot": "P25099", "chembl": "CHEMBL318", "gene_name": "ADORA1"}
 {"name": "AA2AR_HUMAN", "description": "Adenosine A2a receptor", "uniprot": "P29274", "chembl": "CHEMBL251", "gene_name": "ADORA2A"}
 {"name": "AA2BR_HUMAN", "description": "Adenosine A2b receptor", "uniprot": "P29275", "chembl": "CHEMBL255", "gene_name": "ADORA2B"}
 {"name": "AA3R_HUMAN", "description": "Adenosine A3 receptor", "uniprot": "P33765", "chembl": "CHEMBL256", "gene_name": "ADORA3"}
@@ -26,10 +21,8 @@
 {"name": "AAPK2_HUMAN", "description": "AMP-activated protein kinase, alpha-2 subunit", "uniprot": "P54646", "chembl": "CHEMBL2116", "gene_name": "PRKAA2"}
 {"name": "ABCG2_HUMAN", "description": "ATP-binding cassette sub-family G member 2", "uniprot": "Q9UNQ0", "chembl": "CHEMBL5393", "gene_name": "ABCG2"}
 {"name": "ABL1_HUMAN", "description": "Tyrosine-protein kinase ABL", "uniprot": "P00519", "chembl": "CHEMBL1862", "gene_name": "ABL1"}
-{"name": "ABL1_MOUSE", "description": "Tyrosine-protein kinase ABL", "uniprot": "P00520", "chembl": "CHEMBL3099", "gene_name": "ABL1"}
 {"name": "ABL2_HUMAN", "description": "Tyrosine-protein kinase ABL2", "uniprot": "P42684", "chembl": "CHEMBL4014", "gene_name": "ABL2"}
 {"name": "ACES_HUMAN", "description": "Acetylcholinesterase", "uniprot": "P22303", "chembl": "CHEMBL220", "gene_name": "ACHE"}
-{"name": "ACES_TORCA", "description": "Acetylcholinesterase", "uniprot": "P04058", "chembl": "CHEMBL4780", "gene_name": "ACHE"}
 {"name": "ACE_HUMAN", "description": "Angiotensin-converting enzyme", "uniprot": "P12821", "chembl": "CHEMBL1808", "gene_name": "ACE"}
 {"name": "ACHA3_HUMAN", "description": "Neuronal acetylcholine receptor subunit alpha-3", "uniprot": "P32297", "chembl": "CHEMBL3068", "gene_name": "CHRNA3"}
 {"name": "ACHA4_HUMAN", "description": "Neuronal acetylcholine receptor protein alpha-4 subunit", "uniprot": "P43681", "chembl": "CHEMBL1882", "gene_name": "CHRNA4"}
@@ -47,11 +40,9 @@
 {"name": "ADA1A_HUMAN", "description": "Alpha-1a adrenergic receptor", "uniprot": "P35348", "chembl": "CHEMBL229", "gene_name": "ADRA1A"}
 {"name": "ADA1B_HUMAN", "description": "Alpha-1b adrenergic receptor", "uniprot": "P35368", "chembl": "CHEMBL232", "gene_name": "ADRA1B"}
 {"name": "ADA1D_HUMAN", "description": "Alpha-1d adrenergic receptor", "uniprot": "P25100", "chembl": "CHEMBL223", "gene_name": "ADRA1D"}
-{"name": "ADA1D_RAT", "description": "Alpha-1d adrenergic receptor", "uniprot": "P23944", "chembl": "CHEMBL326", "gene_name": "ADRA1D"}
 {"name": "ADA2A_HUMAN", "description": "Alpha-2a adrenergic receptor", "uniprot": "P08913", "chembl": "CHEMBL1867", "gene_name": "ADRA2A"}
 {"name": "ADA2B_HUMAN", "description": "Alpha-2b adrenergic receptor", "uniprot": "P18089", "chembl": "CHEMBL1942", "gene_name": "ADRA2B"}
 {"name": "ADA2C_HUMAN", "description": "Alpha-2c adrenergic receptor", "uniprot": "P18825", "chembl": "CHEMBL1916", "gene_name": "ADRA2C"}
-{"name": "ADA_BOVIN", "description": "Adenosine deaminase", "uniprot": "P56658", "chembl": "CHEMBL2966", "gene_name": "ADA"}
 {"name": "ADA_HUMAN", "description": "Adenosine deaminase", "uniprot": "P00813", "chembl": "CHEMBL1910", "gene_name": "ADA"}
 {"name": "ADCK3_HUMAN", "description": "Chaperone activity of bc1 complex-like, mitochondrial", "uniprot": "Q8NI60", "chembl": "CHEMBL5550", "gene_name": "ADCK3"}
 {"name": "ADCK4_HUMAN", "description": "Uncharacterized aarF domain-containing protein kinase 4", "uniprot": "Q96D53", "chembl": "CHEMBL5753", "gene_name": "ADCK4"}
@@ -71,24 +62,16 @@
 {"name": "AKT3_HUMAN", "description": "Serine/threonine-protein kinase AKT3", "uniprot": "Q9Y243", "chembl": "CHEMBL4816", "gene_name": "AKT3"}
 {"name": "AL5AP_HUMAN", "description": "5-lipoxygenase activating protein", "uniprot": "P20292", "chembl": "CHEMBL4550", "gene_name": "ALOX5AP"}
 {"name": "ALBU_HUMAN", "description": "Serum albumin", "uniprot": "P02768", "chembl": "CHEMBL3253", "gene_name": "ALB"}
-{"name": "ALBU_RAT", "description": "Serum albumin", "uniprot": "P02770", "chembl": "CHEMBL4817", "gene_name": "ALB"}
 {"name": "ALDR_HUMAN", "description": "Aldose reductase", "uniprot": "P15121", "chembl": "CHEMBL1900", "gene_name": "AKR1B1"}
-{"name": "ALDR_RAT", "description": "Aldose reductase", "uniprot": "P07943", "chembl": "CHEMBL2622", "gene_name": "AKR1B1"}
 {"name": "ALK_HUMAN", "description": "ALK tyrosine kinase receptor", "uniprot": "Q9UM73", "chembl": "CHEMBL4247", "gene_name": "ALK"}
 {"name": "AMPN_HUMAN", "description": "Aminopeptidase N", "uniprot": "P15144", "chembl": "CHEMBL1907", "gene_name": "ANPEP"}
 {"name": "ANDR_HUMAN", "description": "Androgen Receptor", "uniprot": "P10275", "chembl": "CHEMBL1871", "gene_name": "AR"}
-{"name": "ANDR_MOUSE", "description": "Androgen Receptor", "uniprot": "P19091", "chembl": "CHEMBL3056", "gene_name": "AR"}
-{"name": "ANDR_RAT", "description": "Androgen Receptor", "uniprot": "P15207", "chembl": "CHEMBL3072", "gene_name": "AR"}
 {"name": "ANKK1_HUMAN", "description": "Ankyrin repeat and protein kinase domain-containing protein 1", "uniprot": "Q8NFD2", "chembl": "CHEMBL5547", "gene_name": "ANKK1"}
 {"name": "AOC1_HUMAN", "description": "Diamine oxidase", "uniprot": "P19801", "chembl": "CHEMBL2118", "gene_name": "AOC1"}
-{"name": "AOC1_RAT", "description": "Diamine oxidase", "uniprot": "P36633", "chembl": "CHEMBL4648", "gene_name": "AOC1"}
 {"name": "AOC3_HUMAN", "description": "Amine oxidase, copper containing", "uniprot": "Q16853", "chembl": "CHEMBL3437", "gene_name": "AOC3"}
 {"name": "AOFA_HUMAN", "description": "Monoamine oxidase A", "uniprot": "P21397", "chembl": "CHEMBL1951", "gene_name": "MAOA"}
 {"name": "AOFB_HUMAN", "description": "Monoamine oxidase B", "uniprot": "P27338", "chembl": "CHEMBL2039", "gene_name": "MAOB"}
 {"name": "AOXA_HUMAN", "description": "Aldehyde oxidase ", "uniprot": "Q06278", "chembl": "CHEMBL3257", "gene_name": "AOX1"}
-{"name": "AOXA_RABIT", "description": "Aldehyde oxidase", "uniprot": "P80456", "chembl": "CHEMBL1641356", "gene_name": "AOX1"}
-{"name": "AOXA_RAT", "description": "Aldehyde oxidase", "uniprot": "Q9Z0U5", "chembl": "CHEMBL1641355", "gene_name": "AOX1"}
-{"name": "ASAH1_RAT", "description": "Acid ceramidase", "uniprot": "Q6P7S1", "chembl": "CHEMBL2331070", "gene_name": "ASAH1"}
 {"name": "ATM_HUMAN", "description": "Serine-protein kinase ATM", "uniprot": "Q13315", "chembl": "CHEMBL3797", "gene_name": "ATM"}
 {"name": "ATR_HUMAN", "description": "Serine-protein kinase ATR", "uniprot": "Q13535", "chembl": "CHEMBL5024", "gene_name": "ATR"}
 {"name": "AURKA_HUMAN", "description": "Serine/threonine-protein kinase Aurora-A", "uniprot": "O14965", "chembl": "CHEMBL4722", "gene_name": "AURKA"}
@@ -96,18 +79,15 @@
 {"name": "AURKC_HUMAN", "description": "Serine/threonine-protein kinase Aurora-C", "uniprot": "Q9UQB9", "chembl": "CHEMBL3935", "gene_name": "AURKC"}
 {"name": "AVR2A_HUMAN", "description": "Activin receptor type-2A", "uniprot": "P27037", "chembl": "CHEMBL5616", "gene_name": "ACVR2A"}
 {"name": "AVR2B_HUMAN", "description": "Activin receptor type-2B", "uniprot": "Q13705", "chembl": "CHEMBL5466", "gene_name": "ACVR2B"}
-{"name": "B0BL08_ECOLX", "description": "Dihydrofolate reductase", "uniprot": "B0BL08", "chembl": "CHEMBL5441", "gene_name": "DFRA17"}
 {"name": "B2CL1_HUMAN", "description": "Apoptosis regulator Bcl-X", "uniprot": "Q07817", "chembl": "CHEMBL4625", "gene_name": "BCL2L1"}
 {"name": "B2CL2_HUMAN", "description": "Apoptosis regulator Bcl-W", "uniprot": "Q92843", "chembl": "CHEMBL4677", "gene_name": "BCL2L2"}
 {"name": "B2L10_HUMAN", "description": "Bcl-2-like protein 10", "uniprot": "Q9HD36", "chembl": "CHEMBL5988", "gene_name": "BCL2L10"}
 {"name": "B2LA1_HUMAN", "description": "Bcl-2-related protein A1", "uniprot": "Q16548", "chembl": "CHEMBL6044", "gene_name": "BCL2A1"}
-{"name": "B5SU02_9CNID", "description": "Alpha carbonic anhydrase", "uniprot": "B5SU02", "chembl": "CHEMBL1075028", "gene_name": "CA"}
 {"name": "BACE1_HUMAN", "description": "Beta-secretase 1", "uniprot": "P56817", "chembl": "CHEMBL4822", "gene_name": "BACE1"}
 {"name": "BAD_HUMAN", "description": "Bcl2-antagonist of cell death (BAD)", "uniprot": "Q92934", "chembl": "CHEMBL3817", "gene_name": "BAD"}
 {"name": "BCL2_HUMAN", "description": "Apoptosis regulator Bcl-2", "uniprot": "P10415", "chembl": "CHEMBL4860", "gene_name": "BCL2"}
 {"name": "BKRB2_HUMAN", "description": "Bradykinin B2 receptor", "uniprot": "P30411", "chembl": "CHEMBL3157", "gene_name": "BDKRB2"}
 {"name": "BLK_HUMAN", "description": "Tyrosine-protein kinase BLK", "uniprot": "P51451", "chembl": "CHEMBL2250", "gene_name": "BLK"}
-{"name": "BLK_MOUSE", "description": "Tyrosine-protein kinase BLK", "uniprot": "P16277", "chembl": "CHEMBL3343", "gene_name": "BLK"}
 {"name": "BMP2K_HUMAN", "description": "BMP-2-inducible protein kinase", "uniprot": "Q9NSY1", "chembl": "CHEMBL4522", "gene_name": "BMP2K"}
 {"name": "BMPR2_HUMAN", "description": "Bone morphogenetic protein receptor type-2", "uniprot": "Q13873", "chembl": "CHEMBL5467", "gene_name": "BMPR2"}
 {"name": "BMR1A_HUMAN", "description": "Bone morphogenetic protein receptor type-1A", "uniprot": "P36894", "chembl": "CHEMBL5275", "gene_name": "BMPR1A"}
@@ -117,31 +97,22 @@
 {"name": "BRSK1_HUMAN", "description": "BR serine/threonine-protein kinase 1", "uniprot": "Q8TDC3", "chembl": "CHEMBL5650", "gene_name": "BRSK1"}
 {"name": "BRSK2_HUMAN", "description": "BR serine/threonine-protein kinase 2", "uniprot": "Q8IWQ3", "chembl": "CHEMBL4574", "gene_name": "BRSK2"}
 {"name": "BTK_HUMAN", "description": "Tyrosine-protein kinase BTK", "uniprot": "Q06187", "chembl": "CHEMBL5251", "gene_name": "BTK"}
-{"name": "BXA1_CLOBO", "description": "Botulinum neurotoxin type A", "uniprot": "P10845", "chembl": "CHEMBL5192", "gene_name": "BOTA"}
-{"name": "C0IX24_9CNID", "description": "Carbonic anhydrase", "uniprot": "C0IX24", "chembl": "CHEMBL1649055", "gene_name": "CA2"}
 {"name": "C11B1_HUMAN", "description": "Cytochrome P450 11B1", "uniprot": "P15538", "chembl": "CHEMBL1908", "gene_name": "CYP11B1"}
 {"name": "C11B2_HUMAN", "description": "Cytochrome P450 11B2", "uniprot": "P19099", "chembl": "CHEMBL2722", "gene_name": "CYP11B2"}
-{"name": "C3SWJ7_ECOLX", "description": "Thymidylate synthase", "uniprot": "C3SWJ7", "chembl": "CHEMBL6137", "gene_name": "THYA"}
 {"name": "CA2D1_HUMAN", "description": "Voltage-gated calcium channel alpha2/delta subunit 1", "uniprot": "P54289", "chembl": "CHEMBL1919", "gene_name": "CACNA2D1"}
 {"name": "CAC1C_HUMAN", "description": "Voltage-gated L-type calcium channel alpha-1C subunit", "uniprot": "Q13936", "chembl": "CHEMBL1940", "gene_name": "CACNA1C"}
 {"name": "CAH12_HUMAN", "description": "Carbonic anhydrase XII", "uniprot": "O43570", "chembl": "CHEMBL3242", "gene_name": "CA12"}
 {"name": "CAH13_HUMAN", "description": "Carbonic anhydrase XIII", "uniprot": "Q8N1Q1", "chembl": "CHEMBL3912", "gene_name": "CA13"}
-{"name": "CAH13_MOUSE", "description": "Carbonic anhydrase XIII", "uniprot": "Q9D6N1", "chembl": "CHEMBL2186", "gene_name": "CA13"}
 {"name": "CAH14_HUMAN", "description": "Carbonic anhydrase XIV", "uniprot": "Q9ULX7", "chembl": "CHEMBL3510", "gene_name": "CA14"}
-{"name": "CAH15_MOUSE", "description": "Carbonic anhydrase 15", "uniprot": "Q99N23", "chembl": "CHEMBL5973", "gene_name": "CA15"}
 {"name": "CAH1_HUMAN", "description": "Carbonic anhydrase I", "uniprot": "P00915", "chembl": "CHEMBL261", "gene_name": "CA1"}
 {"name": "CAH2_HUMAN", "description": "Carbonic anhydrase II", "uniprot": "P00918", "chembl": "CHEMBL205", "gene_name": "CA2"}
 {"name": "CAH3_HUMAN", "description": "Carbonic anhydrase III", "uniprot": "P07451", "chembl": "CHEMBL2885", "gene_name": "CA3"}
-{"name": "CAH4_BOVIN", "description": "Carbonic anhydrase IV", "uniprot": "Q95323", "chembl": "CHEMBL281", "gene_name": "CA4"}
 {"name": "CAH4_HUMAN", "description": "Carbonic anhydrase IV", "uniprot": "P22748", "chembl": "CHEMBL3729", "gene_name": "CA4"}
 {"name": "CAH5A_HUMAN", "description": "Carbonic anhydrase VA", "uniprot": "P35218", "chembl": "CHEMBL4789", "gene_name": "CA5A"}
 {"name": "CAH5B_HUMAN", "description": "Carbonic anhydrase VB", "uniprot": "Q9Y2D0", "chembl": "CHEMBL3969", "gene_name": "CA5B"}
 {"name": "CAH6_HUMAN", "description": "Carbonic anhydrase VI", "uniprot": "P23280", "chembl": "CHEMBL3025", "gene_name": "CA6"}
 {"name": "CAH7_HUMAN", "description": "Carbonic anhydrase VII", "uniprot": "P43166", "chembl": "CHEMBL2326", "gene_name": "CA7"}
 {"name": "CAH9_HUMAN", "description": "Carbonic anhydrase IX", "uniprot": "Q16790", "chembl": "CHEMBL3594", "gene_name": "CA9"}
-{"name": "CAH_METTE", "description": "Carbonic anhydrase", "uniprot": "P40881", "chembl": "CHEMBL3932", "gene_name": "CAH_METTE"}
-{"name": "CAN_CANAL", "description": "Carbonic anhydrase", "uniprot": "Q5AJ71", "chembl": "CHEMBL5337", "gene_name": "NCE103"}
-{"name": "CAN_YEAST", "description": "Carbonic anhydrase", "uniprot": "P53615", "chembl": "CHEMBL5931", "gene_name": "NCE103"}
 {"name": "CASP1_HUMAN", "description": "Caspase-1", "uniprot": "P29466", "chembl": "CHEMBL4801", "gene_name": "CASP1"}
 {"name": "CASP3_HUMAN", "description": "Caspase-3", "uniprot": "P42574", "chembl": "CHEMBL2334", "gene_name": "CASP3"}
 {"name": "CASR_HUMAN", "description": "Calcium sensing receptor", "uniprot": "P41180", "chembl": "CHEMBL1878", "gene_name": "CASR"}
@@ -180,7 +151,6 @@
 {"name": "CDKL2_HUMAN", "description": "Cyclin-dependent kinase-like 2", "uniprot": "Q92772", "chembl": "CHEMBL5728", "gene_name": "CDKL2"}
 {"name": "CDKL3_HUMAN", "description": "Cyclin-dependent kinase-like 3", "uniprot": "Q8IVW4", "chembl": "CHEMBL1163117", "gene_name": "CDKL3"}
 {"name": "CDKL5_HUMAN", "description": "Cyclin-dependent kinase-like 5", "uniprot": "O76039", "chembl": "CHEMBL1163112", "gene_name": "CDKL5"}
-{"name": "CDPK1_PLAF7", "description": "Calcium-dependent protein kinase 1", "uniprot": "P62344", "chembl": "CHEMBL1908387", "gene_name": "CPK1"}
 {"name": "CHK1_HUMAN", "description": "Serine/threonine-protein kinase Chk1 ", "uniprot": "O14757", "chembl": "CHEMBL4630", "gene_name": "CHEK1"}
 {"name": "CHK2_HUMAN", "description": "Serine/threonine-protein kinase Chk2", "uniprot": "O96017", "chembl": "CHEMBL2527", "gene_name": "CHEK2"}
 {"name": "CHLE_HUMAN", "description": "Butyrylcholinesterase", "uniprot": "P06276", "chembl": "CHEMBL1914", "gene_name": "BCHE"}
@@ -192,11 +162,8 @@
 {"name": "CNGA2_HUMAN", "description": "Cyclic nucleotide-gated olfactory channel", "uniprot": "Q16280", "chembl": "CHEMBL1628471", "gene_name": "CNGA2"}
 {"name": "CNR1_HUMAN", "description": "Cannabinoid CB1 receptor", "uniprot": "P21554", "chembl": "CHEMBL218", "gene_name": "CNR1"}
 {"name": "CNR2_HUMAN", "description": "Cannabinoid CB2 receptor", "uniprot": "P34972", "chembl": "CHEMBL253", "gene_name": "CNR2"}
-{"name": "COX2_SHEEP", "description": "Cytochrome c oxidase subunit 2", "uniprot": "O78750", "chembl": "CHEMBL1250404", "gene_name": "MT-CO2"}
 {"name": "CP17A_HUMAN", "description": "Cytochrome P450 17A1", "uniprot": "P05093", "chembl": "CHEMBL3522", "gene_name": "CYP17A1"}
-{"name": "CP17A_RAT", "description": "Cytochrome P450 17A1", "uniprot": "P11715", "chembl": "CHEMBL4430", "gene_name": "CYP17A1"}
 {"name": "CP19A_HUMAN", "description": "Cytochrome P450 19A1", "uniprot": "P11511", "chembl": "CHEMBL1978", "gene_name": "CYP19A1"}
-{"name": "CP19A_RAT", "description": "Cytochrome P450 19A1", "uniprot": "P22443", "chembl": "CHEMBL3859", "gene_name": "CYP19A1"}
 {"name": "CP1A1_HUMAN", "description": "Cytochrome P450 1A1", "uniprot": "P04798", "chembl": "CHEMBL2231", "gene_name": "CYP1A1"}
 {"name": "CP1A2_HUMAN", "description": "Cytochrome P450 1A2", "uniprot": "P05177", "chembl": "CHEMBL3356", "gene_name": "CYP1A2"}
 {"name": "CP1B1_HUMAN", "description": "Cytochrome P450 1B1", "uniprot": "Q16678", "chembl": "CHEMBL4878", "gene_name": "CYP1B1"}
@@ -225,7 +192,6 @@
 {"name": "DAPK2_HUMAN", "description": "Death-associated protein kinase 2", "uniprot": "Q9UIK4", "chembl": "CHEMBL3123", "gene_name": "DAPK2"}
 {"name": "DAPK3_HUMAN", "description": "Death-associated protein kinase 3", "uniprot": "O43293", "chembl": "CHEMBL2468", "gene_name": "DAPK3"}
 {"name": "DCAM_HUMAN", "description": "S-adenosylmethionine decarboxylase 1", "uniprot": "P17707", "chembl": "CHEMBL4181", "gene_name": "AMD1"}
-{"name": "DCAM_RAT", "description": "S-adenosylmethionine decarboxylase 1", "uniprot": "P17708", "chembl": "CHEMBL3808", "gene_name": "AMD1"}
 {"name": "DCLK1_HUMAN", "description": "Serine/threonine-protein kinase DCLK1", "uniprot": "O15075", "chembl": "CHEMBL5683", "gene_name": "DCLK1"}
 {"name": "DCLK2_HUMAN", "description": "Serine/threonine-protein kinase DCLK2", "uniprot": "Q8N568", "chembl": "CHEMBL5519", "gene_name": "DCLK2"}
 {"name": "DCLK3_HUMAN", "description": "Serine/threonine-protein kinase DCLK3", "uniprot": "Q9C098", "chembl": "CHEMBL6123", "gene_name": "DCLK3"}
@@ -243,20 +209,11 @@
 {"name": "DRD3_HUMAN", "description": "Dopamine D3 receptor", "uniprot": "P35462", "chembl": "CHEMBL234", "gene_name": "DRD3"}
 {"name": "DRD4_HUMAN", "description": "Dopamine D4 receptor", "uniprot": "P21917", "chembl": "CHEMBL219", "gene_name": "DRD4"}
 {"name": "DRD5_HUMAN", "description": "Dopamine D5 receptor", "uniprot": "P21918", "chembl": "CHEMBL1850", "gene_name": "DRD5"}
-{"name": "DRTS_LEIMA", "description": "Dihydrofolate reductase", "uniprot": "P07382", "chembl": "CHEMBL4614", "gene_name": "DRTS_LEIMA"}
-{"name": "DRTS_TOXGO", "description": "Dihydrofolate reductase", "uniprot": "Q07422", "chembl": "CHEMBL2425", "gene_name": "DRTS_TOXGO"}
 {"name": "DUSTY_HUMAN", "description": "Dual serine/threonine and tyrosine protein kinase", "uniprot": "Q6XUX3", "chembl": "CHEMBL1908386", "gene_name": "DSTYK"}
 {"name": "DYR1A_HUMAN", "description": "Dual-specificity tyrosine-phosphorylation regulated kinase 1A", "uniprot": "Q13627", "chembl": "CHEMBL2292", "gene_name": "DYRK1A"}
 {"name": "DYR1B_HUMAN", "description": "Dual specificity tyrosine-phosphorylation-regulated kinase 1B", "uniprot": "Q9Y463", "chembl": "CHEMBL5543", "gene_name": "DYRK1B"}
 {"name": "DYRK2_HUMAN", "description": "Dual-specificity tyrosine-phosphorylation regulated kinase 2", "uniprot": "Q92630", "chembl": "CHEMBL4376", "gene_name": "DYRK2"}
-{"name": "DYR_BOVIN", "description": "Dihydrofolate reductase", "uniprot": "P00376", "chembl": "CHEMBL1075051", "gene_name": "DHFR"}
-{"name": "DYR_CHICK", "description": "Dihydrofolate reductase", "uniprot": "P00378", "chembl": "CHEMBL2575", "gene_name": "DHFR"}
-{"name": "DYR_ENTFC", "description": "Dihydrofolate reductase", "uniprot": "P00380", "chembl": "CHEMBL3243913", "gene_name": "FOLA"}
 {"name": "DYR_HUMAN", "description": "Dihydrofolate reductase", "uniprot": "P00374", "chembl": "CHEMBL202", "gene_name": "DHFR"}
-{"name": "DYR_LACCA", "description": "Dihydrofolate reductase", "uniprot": "P00381", "chembl": "CHEMBL2902", "gene_name": "FOLA"}
-{"name": "DYR_MOUSE", "description": "Dihydrofolate reductase", "uniprot": "P00375", "chembl": "CHEMBL4564", "gene_name": "DHFR"}
-{"name": "DYR_PNECA", "description": "Dihydrofolate reductase", "uniprot": "P16184", "chembl": "CHEMBL1926", "gene_name": "DYR_PNECA"}
-{"name": "DYR_RAT", "description": "Dihydrofolate reductase", "uniprot": "Q920D2", "chembl": "CHEMBL2363", "gene_name": "DHFR"}
 {"name": "E2AK1_HUMAN", "description": "Eukaryotic translation initiation factor 2-alpha kinase 1", "uniprot": "Q9BQI3", "chembl": "CHEMBL6029", "gene_name": "EIF2AK1"}
 {"name": "E2AK2_HUMAN", "description": "Interferon-induced, double-stranded RNA-activated protein kinase", "uniprot": "P19525", "chembl": "CHEMBL5785", "gene_name": "EIF2AK2"}
 {"name": "E2AK4_HUMAN", "description": "Eukaryotic translation initiation factor 2-alpha kinase 4", "uniprot": "Q9P2K8", "chembl": "CHEMBL5358", "gene_name": "EIF2AK4"}
@@ -283,13 +240,11 @@
 {"name": "ERBB2_HUMAN", "description": "Receptor protein-tyrosine kinase erbB-2", "uniprot": "P04626", "chembl": "CHEMBL1824", "gene_name": "ERBB2"}
 {"name": "ERBB3_HUMAN", "description": "Receptor tyrosine-protein kinase erbB-3", "uniprot": "P21860", "chembl": "CHEMBL5838", "gene_name": "ERBB3"}
 {"name": "ERBB4_HUMAN", "description": "Receptor protein-tyrosine kinase erbB-4", "uniprot": "Q15303", "chembl": "CHEMBL3009", "gene_name": "ERBB4"}
-{"name": "ERG2_YEAST", "description": "C-8 sterol isomerase", "uniprot": "P32352", "chembl": "CHEMBL3224", "gene_name": "ERG2"}
 {"name": "ERN1_HUMAN", "description": "Serine/threonine-protein kinase/endoribonuclease IRE1", "uniprot": "O75460", "chembl": "CHEMBL1163101", "gene_name": "ERN1"}
 {"name": "ERR1_HUMAN", "description": "Estrogen-related receptor alpha", "uniprot": "P11474", "chembl": "CHEMBL3429", "gene_name": "ESRRA"}
 {"name": "ERR2_HUMAN", "description": "Estrogen-related receptor beta", "uniprot": "O95718", "chembl": "CHEMBL3751", "gene_name": "ESRRB"}
 {"name": "ERR3_HUMAN", "description": "Estrogen-related receptor gamma", "uniprot": "P62508", "chembl": "CHEMBL4245", "gene_name": "ESRRG"}
 {"name": "ESR1_HUMAN", "description": "Estrogen receptor alpha", "uniprot": "P03372", "chembl": "CHEMBL206", "gene_name": "ESR1"}
-{"name": "ESR1_RAT", "description": "Estrogen receptor alpha", "uniprot": "P06211", "chembl": "CHEMBL2724", "gene_name": "ESR1"}
 {"name": "ESR2_HUMAN", "description": "Estrogen receptor beta", "uniprot": "Q92731", "chembl": "CHEMBL242", "gene_name": "ESR2"}
 {"name": "ETV6_HUMAN", "description": "Transcription factor ETV6", "uniprot": "P41212", "chembl": "CHEMBL2401606", "gene_name": "ETV6"}
 {"name": "F16P1_HUMAN", "description": "Fructose-1,6-bisphosphatase", "uniprot": "P09467", "chembl": "CHEMBL3975", "gene_name": "FBP1"}
@@ -354,17 +309,14 @@
 {"name": "HDA10_HUMAN", "description": "Histone deacetylase 10", "uniprot": "Q969S8", "chembl": "CHEMBL5103", "gene_name": "HDAC10"}
 {"name": "HDA11_HUMAN", "description": "Histone deacetylase 11", "uniprot": "Q96DB2", "chembl": "CHEMBL3310", "gene_name": "HDAC11"}
 {"name": "HDAC1_HUMAN", "description": "Histone deacetylase 1", "uniprot": "Q13547", "chembl": "CHEMBL325", "gene_name": "HDAC1"}
-{"name": "HDAC1_MOUSE", "description": "Histone deacetylase 1", "uniprot": "O09106", "chembl": "CHEMBL4001", "gene_name": "HDAC1"}
 {"name": "HDAC2_HUMAN", "description": "Histone deacetylase 2", "uniprot": "Q92769", "chembl": "CHEMBL1937", "gene_name": "HDAC2"}
 {"name": "HDAC3_HUMAN", "description": "Histone deacetylase 3", "uniprot": "O15379", "chembl": "CHEMBL1829", "gene_name": "HDAC3"}
 {"name": "HDAC4_HUMAN", "description": "Histone deacetylase 4", "uniprot": "P56524", "chembl": "CHEMBL3524", "gene_name": "HDAC4"}
 {"name": "HDAC5_HUMAN", "description": "Histone deacetylase 5", "uniprot": "Q9UQL6", "chembl": "CHEMBL2563", "gene_name": "HDAC5"}
 {"name": "HDAC6_HUMAN", "description": "Histone deacetylase 6", "uniprot": "Q9UBN7", "chembl": "CHEMBL1865", "gene_name": "HDAC6"}
-{"name": "HDAC6_MOUSE", "description": "Histone deacetylase 6", "uniprot": "Q9Z2V5", "chembl": "CHEMBL2878", "gene_name": "HDAC6"}
 {"name": "HDAC7_HUMAN", "description": "Histone deacetylase 7", "uniprot": "Q8WUI4", "chembl": "CHEMBL2716", "gene_name": "HDAC7"}
 {"name": "HDAC8_HUMAN", "description": "Histone deacetylase 8", "uniprot": "Q9BY41", "chembl": "CHEMBL3192", "gene_name": "HDAC8"}
 {"name": "HDAC9_HUMAN", "description": "Histone deacetylase 9", "uniprot": "Q9UKV0", "chembl": "CHEMBL4145", "gene_name": "HDAC9"}
-{"name": "HDAH_ALCSD", "description": "Histone deacetylase-like amidohydrolase", "uniprot": "Q70I53", "chembl": "CHEMBL6017", "gene_name": "HDAH"}
 {"name": "HIF1A_HUMAN", "description": "Hypoxia-inducible factor 1 alpha", "uniprot": "Q16665", "chembl": "CHEMBL4261", "gene_name": "HIF1A"}
 {"name": "HIPK1_HUMAN", "description": "Homeodomain-interacting protein kinase 1", "uniprot": "Q86Z02", "chembl": "CHEMBL5427", "gene_name": "HIPK1"}
 {"name": "HIPK2_HUMAN", "description": "Homeodomain-interacting protein kinase 2", "uniprot": "Q9H2X6", "chembl": "CHEMBL4576", "gene_name": "HIPK2"}
@@ -449,18 +401,13 @@
 {"name": "LATS1_HUMAN", "description": "Serine/threonine-protein kinase LATS1", "uniprot": "O95835", "chembl": "CHEMBL6167", "gene_name": "LATS1"}
 {"name": "LATS2_HUMAN", "description": "Serine/threonine-protein kinase LATS2", "uniprot": "Q9NRM7", "chembl": "CHEMBL5907", "gene_name": "LATS2"}
 {"name": "LCK_HUMAN", "description": "Tyrosine-protein kinase LCK", "uniprot": "P06239", "chembl": "CHEMBL258", "gene_name": "LCK"}
-{"name": "LCK_MOUSE", "description": "Tyrosine-protein kinase LCK", "uniprot": "P06240", "chembl": "CHEMBL2480", "gene_name": "LCK"}
 {"name": "LGUL_HUMAN", "description": "Glyoxalase I", "uniprot": "Q04760", "chembl": "CHEMBL2424", "gene_name": "GLO1"}
 {"name": "LIMK1_HUMAN", "description": "LIM domain kinase 1", "uniprot": "P53667", "chembl": "CHEMBL3836", "gene_name": "LIMK1"}
 {"name": "LIMK2_HUMAN", "description": "LIM domain kinase 2", "uniprot": "P53671", "chembl": "CHEMBL5932", "gene_name": "LIMK2"}
 {"name": "LKHA4_HUMAN", "description": "Leukotriene A4 hydrolase", "uniprot": "P09960", "chembl": "CHEMBL4618", "gene_name": "LTA4H"}
 {"name": "LOX12_HUMAN", "description": "Arachidonate 12-lipoxygenase", "uniprot": "P18054", "chembl": "CHEMBL3687", "gene_name": "ALOX12"}
 {"name": "LOX15_HUMAN", "description": "Arachidonate 15-lipoxygenase", "uniprot": "P16050", "chembl": "CHEMBL2903", "gene_name": "ALOX15"}
-{"name": "LOX15_RABIT", "description": "Arachidonate 15-lipoxygenase", "uniprot": "P12530", "chembl": "CHEMBL4358", "gene_name": "ALOX15"}
-{"name": "LOX1_SOYBN", "description": "Seed lipoxygenase-1", "uniprot": "P08170", "chembl": "CHEMBL4586", "gene_name": "LOX1.1"}
 {"name": "LOX5_HUMAN", "description": "Arachidonate 5-lipoxygenase", "uniprot": "P09917", "chembl": "CHEMBL215", "gene_name": "ALOX5"}
-{"name": "LOX5_MOUSE", "description": "Arachidonate 5-lipoxygenase", "uniprot": "P48999", "chembl": "CHEMBL5211", "gene_name": "ALOX5"}
-{"name": "LOX5_RAT", "description": "Arachidonate 5-lipoxygenase", "uniprot": "P12527", "chembl": "CHEMBL312", "gene_name": "ALOX5"}
 {"name": "LRRK2_HUMAN", "description": "Leucine-rich repeat serine/threonine-protein kinase 2", "uniprot": "Q5S007", "chembl": "CHEMBL1075104", "gene_name": "LRRK2"}
 {"name": "LT4R1_HUMAN", "description": "Leukotriene B4 receptor 1", "uniprot": "Q15722", "chembl": "CHEMBL3911", "gene_name": "LTB4R"}
 {"name": "LTK_HUMAN", "description": "Leukocyte tyrosine kinase receptor", "uniprot": "P29376", "chembl": "CHEMBL5627", "gene_name": "LTK"}
@@ -497,7 +444,6 @@
 {"name": "MC5R_HUMAN", "description": "Melanocortin receptor 5", "uniprot": "P33032", "chembl": "CHEMBL4608", "gene_name": "MC5R"}
 {"name": "MCL1_HUMAN", "description": "Induced myeloid leukemia cell differentiation protein Mcl-1", "uniprot": "Q07820", "chembl": "CHEMBL4361", "gene_name": "MCL1"}
 {"name": "MCR_HUMAN", "description": "Mineralocorticoid receptor", "uniprot": "P08235", "chembl": "CHEMBL1994", "gene_name": "NR3C2"}
-{"name": "MDR1B_MOUSE", "description": "P-glycoprotein 1", "uniprot": "P06795", "chembl": "CHEMBL3467", "gene_name": "ABCB1B"}
 {"name": "MDR1_HUMAN", "description": "P-glycoprotein 1", "uniprot": "P08183", "chembl": "CHEMBL4302", "gene_name": "ABCB1"}
 {"name": "MELK_HUMAN", "description": "Maternal embryonic leucine zipper kinase", "uniprot": "Q14680", "chembl": "CHEMBL4578", "gene_name": "MELK"}
 {"name": "MERTK_HUMAN", "description": "Proto-oncogene tyrosine-protein kinase MER", "uniprot": "Q12866", "chembl": "CHEMBL5331", "gene_name": "MERTK"}
@@ -544,7 +490,6 @@
 {"name": "MRP2_HUMAN", "description": "Canalicular multispecific organic anion transporter 1", "uniprot": "Q92887", "chembl": "CHEMBL5748", "gene_name": "ABCC2"}
 {"name": "MRP4_HUMAN", "description": "Multidrug resistance-associated protein 4", "uniprot": "O15439", "chembl": "CHEMBL1743128", "gene_name": "ABCC4"}
 {"name": "MRP5_HUMAN", "description": "Multidrug resistance-associated protein 5", "uniprot": "O15440", "chembl": "CHEMBL2046258", "gene_name": "ABCC5"}
-{"name": "MTCA2_MYCTU", "description": "Carbonic anhydrase", "uniprot": "P9WPJ9", "chembl": "CHEMBL6068", "gene_name": "MTCA2"}
 {"name": "MTLR_HUMAN", "description": "Motilin receptor", "uniprot": "O43193", "chembl": "CHEMBL2203", "gene_name": "MLNR"}
 {"name": "MTOR_HUMAN", "description": "FK506 binding protein 12", "uniprot": "P42345", "chembl": "CHEMBL2842", "gene_name": "MTOR"}
 {"name": "MTR1A_HUMAN", "description": "Melatonin receptor 1A", "uniprot": "P48039", "chembl": "CHEMBL1945", "gene_name": "MTNR1A"}
@@ -554,7 +499,6 @@
 {"name": "MYLK2_HUMAN", "description": "myosin light chain kinase 2", "uniprot": "Q9H1R3", "chembl": "CHEMBL2777", "gene_name": "MYLK2"}
 {"name": "MYLK3_HUMAN", "description": "Myosin light chain kinase", "uniprot": "Q32MK0", "chembl": "CHEMBL4627", "gene_name": "MYLK3"}
 {"name": "MYLK4_HUMAN", "description": "Myosin light chain kinase family member 4", "uniprot": "Q86YV6", "chembl": "CHEMBL5426", "gene_name": "MYLK4"}
-{"name": "MYLK_CHICK", "description": "Myosin light chain kinase, smooth muscle", "uniprot": "P11799", "chembl": "CHEMBL3062", "gene_name": "MYLK"}
 {"name": "MYLK_HUMAN", "description": "Myosin light chain kinase, smooth muscle", "uniprot": "Q15746", "chembl": "CHEMBL2428", "gene_name": "MYLK"}
 {"name": "MYO3A_HUMAN", "description": "Myosin IIIA", "uniprot": "Q8NEV4", "chembl": "CHEMBL5546", "gene_name": "MYO3A"}
 {"name": "MYO3B_HUMAN", "description": "Myosin-IIIB", "uniprot": "Q8WXR4", "chembl": "CHEMBL5654", "gene_name": "MYO3B"}
@@ -607,7 +551,6 @@
 {"name": "P3C2B_HUMAN", "description": "Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing beta polypeptide", "uniprot": "O00750", "chembl": "CHEMBL5554", "gene_name": "PIK3C2B"}
 {"name": "P3C2G_HUMAN", "description": "Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit gamma", "uniprot": "O75747", "chembl": "CHEMBL1163120", "gene_name": "PIK3C2G"}
 {"name": "P85A_HUMAN", "description": "PI3-kinase p85-alpha subunit", "uniprot": "P27986", "chembl": "CHEMBL2506", "gene_name": "PIK3R1"}
-{"name": "P96878_MYCTU", "description": "PROBABLE TRANSMEMBRANE CARBONIC ANHYDRASE (CARBONATE DEHYDRATASE) (CARBONIC DEHYDRATASE)", "uniprot": "P96878", "chembl": "CHEMBL5767", "gene_name": "P96878_MYCTU"}
 {"name": "PA21B_HUMAN", "description": "Phospholipase A2 group 1B", "uniprot": "P04054", "chembl": "CHEMBL4426", "gene_name": "PLA2G1B"}
 {"name": "PAK1_HUMAN", "description": "Serine/threonine-protein kinase PAK 1", "uniprot": "Q13153", "chembl": "CHEMBL4600", "gene_name": "PAK1"}
 {"name": "PAK2_HUMAN", "description": "Serine/threonine-protein kinase PAK 2", "uniprot": "Q13177", "chembl": "CHEMBL4487", "gene_name": "PAK2"}
@@ -641,17 +584,8 @@
 {"name": "PERM_HUMAN", "description": "Myeloperoxidase", "uniprot": "P05164", "chembl": "CHEMBL2439", "gene_name": "MPO"}
 {"name": "PGFRA_HUMAN", "description": "Platelet-derived growth factor receptor alpha ", "uniprot": "P16234", "chembl": "CHEMBL2007", "gene_name": "PDGFRA"}
 {"name": "PGFRB_HUMAN", "description": "Platelet-derived growth factor receptor beta", "uniprot": "P09619", "chembl": "CHEMBL1913", "gene_name": "PDGFRB"}
-{"name": "PGFRB_MOUSE", "description": "Platelet-derived growth factor receptor beta", "uniprot": "P05622", "chembl": "CHEMBL2749", "gene_name": "PDGFRB"}
-{"name": "PGH1_BOVIN", "description": "Cyclooxygenase-1", "uniprot": "O62664", "chembl": "CHEMBL2860", "gene_name": "PTGS1"}
-{"name": "PGH1_CANFA", "description": "Cyclooxygenase-1", "uniprot": "Q8HZR1", "chembl": "CHEMBL4133", "gene_name": "PTGS1"}
 {"name": "PGH1_HUMAN", "description": "Cyclooxygenase-1", "uniprot": "P23219", "chembl": "CHEMBL221", "gene_name": "PTGS1"}
-{"name": "PGH1_MOUSE", "description": "Cyclooxygenase-1", "uniprot": "P22437", "chembl": "CHEMBL2649", "gene_name": "PTGS1"}
-{"name": "PGH1_SHEEP", "description": "Cyclooxygenase-1", "uniprot": "P05979", "chembl": "CHEMBL2949", "gene_name": "PTGS1"}
-{"name": "PGH2_BOVIN", "description": "Cyclooxygenase-2", "uniprot": "O62698", "chembl": "CHEMBL3331", "gene_name": "PTGS2"}
 {"name": "PGH2_HUMAN", "description": "Cyclooxygenase-2", "uniprot": "P35354", "chembl": "CHEMBL230", "gene_name": "PTGS2"}
-{"name": "PGH2_MOUSE", "description": "Cyclooxygenase-2", "uniprot": "Q05769", "chembl": "CHEMBL4321", "gene_name": "PTGS2"}
-{"name": "PGH2_RAT", "description": "Cyclooxygenase-2", "uniprot": "P35355", "chembl": "CHEMBL2977", "gene_name": "PTGS2"}
-{"name": "PGH2_SHEEP", "description": "Cyclooxygenase-2", "uniprot": "P79208", "chembl": "CHEMBL4102", "gene_name": "PTGS2"}
 {"name": "PHKG1_HUMAN", "description": "Phosphorylase kinase gamma subunit 1", "uniprot": "Q16816", "chembl": "CHEMBL4004", "gene_name": "PHKG1"}
 {"name": "PHKG2_HUMAN", "description": "Phosphorylase kinase gamma subunit 2", "uniprot": "P15735", "chembl": "CHEMBL2349", "gene_name": "PHKG2"}
 {"name": "PI2R_HUMAN", "description": "Prostanoid IP receptor", "uniprot": "P43119", "chembl": "CHEMBL1995", "gene_name": "PTGIR"}
@@ -670,7 +604,6 @@
 {"name": "PK3CG_HUMAN", "description": "PI3-kinase p110-gamma subunit", "uniprot": "P48736", "chembl": "CHEMBL3267", "gene_name": "PIK3CG"}
 {"name": "PKN1_HUMAN", "description": "Protein kinase N1", "uniprot": "Q16512", "chembl": "CHEMBL3384", "gene_name": "PKN1"}
 {"name": "PKN2_HUMAN", "description": "Protein kinase N2", "uniprot": "Q16513", "chembl": "CHEMBL3032", "gene_name": "PKN2"}
-{"name": "PKNB_MYCTU", "description": "Serine/threonine-protein kinase pknB", "uniprot": "P9WI81", "chembl": "CHEMBL1908385", "gene_name": "PKNB"}
 {"name": "PLD1_HUMAN", "description": "Phospholipase D1", "uniprot": "Q13393", "chembl": "CHEMBL2536", "gene_name": "PLD1"}
 {"name": "PLD2_HUMAN", "description": "Phospholipase D2", "uniprot": "O14939", "chembl": "CHEMBL2734", "gene_name": "PLD2"}
 {"name": "PLK1_HUMAN", "description": "Serine/threonine-protein kinase PLK1", "uniprot": "P53350", "chembl": "CHEMBL3024", "gene_name": "PLK1"}
@@ -687,8 +620,6 @@
 {"name": "PPARG_HUMAN", "description": "Peroxisome proliferator-activated receptor gamma", "uniprot": "P37231", "chembl": "CHEMBL235", "gene_name": "PPARG"}
 {"name": "PPGB_HUMAN", "description": "Lysosomal protective protein", "uniprot": "P10619", "chembl": "CHEMBL6115", "gene_name": "CTSA"}
 {"name": "PRGR_HUMAN", "description": "Progesterone receptor", "uniprot": "P06401", "chembl": "CHEMBL208", "gene_name": "PGR"}
-{"name": "PRGR_RABIT", "description": "Progesterone receptor", "uniprot": "P06186", "chembl": "CHEMBL3456", "gene_name": "PGR"}
-{"name": "PRGR_RAT", "description": "Progesterone receptor", "uniprot": "Q63449", "chembl": "CHEMBL2596", "gene_name": "PGR"}
 {"name": "PRIO_HUMAN", "description": "Prion protein", "uniprot": "P04156", "chembl": "CHEMBL4869", "gene_name": "PRNP"}
 {"name": "PRKDC_HUMAN", "description": "DNA-dependent protein kinase", "uniprot": "P78527", "chembl": "CHEMBL3142", "gene_name": "PRKDC"}
 {"name": "PRKX_HUMAN", "description": "Serine/threonine-protein kinase PRKX", "uniprot": "P51817", "chembl": "CHEMBL5818", "gene_name": "PRKX"}
@@ -702,31 +633,13 @@
 {"name": "PTGES_HUMAN", "description": "Prostaglandin E synthase", "uniprot": "O14684", "chembl": "CHEMBL5658", "gene_name": "PTGES"}
 {"name": "PTK6_HUMAN", "description": "Tyrosine-protein kinase BRK", "uniprot": "Q13882", "chembl": "CHEMBL4601", "gene_name": "PTK6"}
 {"name": "PTN11_HUMAN", "description": "Protein-tyrosine phosphatase 2C", "uniprot": "Q06124", "chembl": "CHEMBL3864", "gene_name": "PTPN11"}
-{"name": "PTR1_LEIMA", "description": "Pteridine reductase 1", "uniprot": "Q01782", "chembl": "CHEMBL6194", "gene_name": "PTR1"}
 {"name": "PUR2_HUMAN", "description": "GAR transformylase", "uniprot": "P22102", "chembl": "CHEMBL3972", "gene_name": "GART"}
 {"name": "PYGM_HUMAN", "description": "Muscle glycogen phosphorylase", "uniprot": "P11217", "chembl": "CHEMBL3526", "gene_name": "PYGM"}
 {"name": "PYRD_HUMAN", "description": "Dihydroorotate dehydrogenase", "uniprot": "Q02127", "chembl": "CHEMBL1966", "gene_name": "DHODH"}
-{"name": "Q25270_LEIDO", "description": "Beta tubulin", "uniprot": "Q25270", "chembl": "CHEMBL3186", "gene_name": "BETA-TUBULIN"}
-{"name": "Q5U9J1_THAWE", "description": "Delta carbonic anhydrase", "uniprot": "Q5U9J1", "chembl": "CHEMBL3097982", "gene_name": "CA1"}
-{"name": "Q690N0_BOVIN", "description": "Progesterone receptor", "uniprot": "Q690N0", "chembl": "CHEMBL1909044", "gene_name": "PGR"}
-{"name": "Q7K6A1_PLAF7", "description": "Histone deacetylase", "uniprot": "Q7K6A1", "chembl": "CHEMBL1293190", "gene_name": "PFHDAC1"}
-{"name": "Q7ZJM1_9HIV1", "description": "Human immunodeficiency virus type 1 integrase", "uniprot": "Q7ZJM1", "chembl": "CHEMBL3471", "gene_name": "POL"}
-{"name": "Q81R22_BACAN", "description": "Dihydrofolate reductase", "uniprot": "Q81R22", "chembl": "CHEMBL5270", "gene_name": "DFRA"}
-{"name": "Q8SPQ9_CANFA", "description": "Cyclooxygenase-2", "uniprot": "Q8SPQ9", "chembl": "CHEMBL4033", "gene_name": "COX-2"}
-{"name": "Q94F81_MAIZE", "description": "Histone deacetylase HD2", "uniprot": "Q94F81", "chembl": "CHEMBL4919", "gene_name": "HDA106"}
-{"name": "Q9BEG3_BOVIN", "description": "Arachidonate 5-lipoxygenase", "uniprot": "Q9BEG3", "chembl": "CHEMBL2980", "gene_name": "Q9BEG3_BOVIN"}
-{"name": "Q9XYC7_PLAFA", "description": "Histone deacetylase", "uniprot": "Q9XYC7", "chembl": "CHEMBL5541", "gene_name": "HDAC1"}
-{"name": "Q9ZTP8_MAIZE", "description": "Histone deacetylase HD1B", "uniprot": "Q9ZTP8", "chembl": "CHEMBL3541", "gene_name": "HD1B"}
-{"name": "RABP1_CHICK", "description": "Cellular retinoic acid-binding protein I", "uniprot": "P40220", "chembl": "CHEMBL4945", "gene_name": "CRABP1"}
-{"name": "RABP1_MOUSE", "description": "Cellular retinoic acid-binding protein I", "uniprot": "P62965", "chembl": "CHEMBL3208", "gene_name": "CRABP1"}
-{"name": "RABP2_MOUSE", "description": "Cellular retinoic acid-binding protein II", "uniprot": "P22935", "chembl": "CHEMBL4172", "gene_name": "CRABP2"}
 {"name": "RAF1_HUMAN", "description": "Serine/threonine-protein kinase RAF", "uniprot": "P04049", "chembl": "CHEMBL1906", "gene_name": "RAF1"}
 {"name": "RARA_HUMAN", "description": "Retinoic acid receptor alpha", "uniprot": "P10276", "chembl": "CHEMBL2055", "gene_name": "RARA"}
-{"name": "RARA_MOUSE", "description": "Retinoic acid receptor alpha", "uniprot": "P11416", "chembl": "CHEMBL2792", "gene_name": "RARA"}
 {"name": "RARB_HUMAN", "description": "Retinoic acid receptor beta", "uniprot": "P10826", "chembl": "CHEMBL2008", "gene_name": "RARB"}
-{"name": "RARB_MOUSE", "description": "Retinoic acid receptor beta", "uniprot": "P22605", "chembl": "CHEMBL3266", "gene_name": "RARB"}
 {"name": "RARG_HUMAN", "description": "Retinoic acid receptor gamma", "uniprot": "P13631", "chembl": "CHEMBL2003", "gene_name": "RARG"}
-{"name": "RARG_MOUSE", "description": "Retinoic acid receptor gamma", "uniprot": "P18911", "chembl": "CHEMBL4177", "gene_name": "RARG"}
 {"name": "RASH_HUMAN", "description": "Transforming protein p21/H-Ras-1 ", "uniprot": "P01112", "chembl": "CHEMBL2167", "gene_name": "HRAS"}
 {"name": "RENI_HUMAN", "description": "Renin", "uniprot": "P00797", "chembl": "CHEMBL286", "gene_name": "REN"}
 {"name": "RET4_HUMAN", "description": "Plasma retinol-binding protein", "uniprot": "P02753", "chembl": "CHEMBL3100", "gene_name": "RBP4"}
@@ -742,16 +655,11 @@
 {"name": "ROCK1_HUMAN", "description": "Rho-associated protein kinase 1 ", "uniprot": "Q13464", "chembl": "CHEMBL3231", "gene_name": "ROCK1"}
 {"name": "ROCK2_HUMAN", "description": "Rho-associated protein kinase 2", "uniprot": "O75116", "chembl": "CHEMBL2973", "gene_name": "ROCK2"}
 {"name": "RON_HUMAN", "description": "Macrophage-stimulating protein receptor", "uniprot": "Q04912", "chembl": "CHEMBL2689", "gene_name": "MST1R"}
-{"name": "RON_MOUSE", "description": "Macrophage-stimulating protein receptor", "uniprot": "Q62190", "chembl": "CHEMBL1795170", "gene_name": "MST1R"}
 {"name": "RORB_HUMAN", "description": "Nuclear receptor ROR-beta", "uniprot": "Q92753", "chembl": "CHEMBL3091268", "gene_name": "RORB"}
 {"name": "ROS1_HUMAN", "description": "Proto-oncogene tyrosine-protein kinase ROS", "uniprot": "P08922", "chembl": "CHEMBL5568", "gene_name": "ROS1"}
 {"name": "RXRA_HUMAN", "description": "Retinoid X receptor alpha", "uniprot": "P19793", "chembl": "CHEMBL2061", "gene_name": "RXRA"}
-{"name": "RXRA_MOUSE", "description": "Retinoid X receptor alpha", "uniprot": "P28700", "chembl": "CHEMBL3084", "gene_name": "RXRA"}
-{"name": "RXRA_RAT", "description": "Retinoid X receptor alpha", "uniprot": "Q05343", "chembl": "CHEMBL4431", "gene_name": "RXRA"}
 {"name": "RXRB_HUMAN", "description": "Retinoid X receptor beta", "uniprot": "P28702", "chembl": "CHEMBL1870", "gene_name": "RXRB"}
-{"name": "RXRB_MOUSE", "description": "Retinoid X receptor beta", "uniprot": "P28704", "chembl": "CHEMBL4047", "gene_name": "RXRB"}
 {"name": "RXRG_HUMAN", "description": "Retinoid X receptor gamma", "uniprot": "P48443", "chembl": "CHEMBL2004", "gene_name": "RXRG"}
-{"name": "RXRG_MOUSE", "description": "Retinoid X receptor gamma", "uniprot": "P28705", "chembl": "CHEMBL4402", "gene_name": "RXRG"}
 {"name": "S100B_HUMAN", "description": "S-100 protein beta chain", "uniprot": "P04271", "chembl": "CHEMBL4300", "gene_name": "S100B"}
 {"name": "S15A2_HUMAN", "description": "Solute carrier family 15 member 2", "uniprot": "Q16348", "chembl": "CHEMBL1743125", "gene_name": "SLC15A2"}
 {"name": "S19A1_HUMAN", "description": "Folate transporter 1", "uniprot": "P41440", "chembl": "CHEMBL4833", "gene_name": "SLC19A1"}
@@ -785,14 +693,12 @@
 {"name": "SGMR1_HUMAN", "description": "Sigma opioid receptor", "uniprot": "Q99720", "chembl": "CHEMBL287", "gene_name": "SIGMAR1"}
 {"name": "SHBG_HUMAN", "description": "Testis-specific androgen-binding protein", "uniprot": "P04278", "chembl": "CHEMBL3305", "gene_name": "SHBG"}
 {"name": "SHH_HUMAN", "description": "Sonic hedgehog protein", "uniprot": "Q15465", "chembl": "CHEMBL5602", "gene_name": "SHH"}
-{"name": "SHH_MOUSE", "description": "Sonic hedgehog protein", "uniprot": "Q62226", "chembl": "CHEMBL5387", "gene_name": "SHH"}
 {"name": "SIK1_HUMAN", "description": "Serine/threonine-protein kinase SIK1", "uniprot": "P57059", "chembl": "CHEMBL6082", "gene_name": "SIK1"}
 {"name": "SIK2_HUMAN", "description": "Serine/threonine-protein kinase SIK2", "uniprot": "Q9H0K1", "chembl": "CHEMBL5699", "gene_name": "SIK2"}
 {"name": "SIK3_HUMAN", "description": "Serine/threonine-protein kinase SIK3", "uniprot": "Q9Y2K2", "chembl": "CHEMBL6149", "gene_name": "SIK3"}
 {"name": "SIR2_HUMAN", "description": "NAD-dependent deacetylase sirtuin 2", "uniprot": "Q8IXJ6", "chembl": "CHEMBL4462", "gene_name": "SIRT2"}
 {"name": "SLK_HUMAN", "description": "Serine/threonine-protein kinase 2", "uniprot": "Q9H2G2", "chembl": "CHEMBL4202", "gene_name": "SLK"}
 {"name": "SMO_HUMAN", "description": "Smoothened homolog", "uniprot": "Q99835", "chembl": "CHEMBL5971", "gene_name": "SMO"}
-{"name": "SMO_MOUSE", "description": "Smoothened homolog", "uniprot": "P56726", "chembl": "CHEMBL6080", "gene_name": "SMO"}
 {"name": "SNRK_HUMAN", "description": "SNF-related serine/threonine-protein kinase", "uniprot": "Q9NRH2", "chembl": "CHEMBL1908384", "gene_name": "SNRK"}
 {"name": "SO1B1_HUMAN", "description": "Solute carrier organic anion transporter family member 1B1", "uniprot": "Q9Y6L6", "chembl": "CHEMBL1697668", "gene_name": "SLCO1B1"}
 {"name": "SO1B3_HUMAN", "description": "Solute carrier organic anion transporter family member 1B3", "uniprot": "Q9NPD5", "chembl": "CHEMBL1743121", "gene_name": "SLCO1B3"}
@@ -800,7 +706,6 @@
 {"name": "SO4C1_HUMAN", "description": "Solute carrier organic anion transporter family member 4C1", "uniprot": "Q6ZQN7", "chembl": "CHEMBL2073690", "gene_name": "SLCO4C1"}
 {"name": "SPHK1_HUMAN", "description": "Sphingosine kinase 1", "uniprot": "Q9NYA1", "chembl": "CHEMBL4394", "gene_name": "SPHK1"}
 {"name": "SPHK2_HUMAN", "description": "Sphingosine kinase 2", "uniprot": "Q9NRA0", "chembl": "CHEMBL3023", "gene_name": "SPHK2"}
-{"name": "SRC_CHICK", "description": "Tyrosine-protein kinase SRC", "uniprot": "P00523", "chembl": "CHEMBL3655", "gene_name": "SRC"}
 {"name": "SRC_HUMAN", "description": "Tyrosine-protein kinase SRC", "uniprot": "P12931", "chembl": "CHEMBL267", "gene_name": "SRC"}
 {"name": "SRMS_HUMAN", "description": "Tyrosine-protein kinase Srms", "uniprot": "Q9H3Y6", "chembl": "CHEMBL5703", "gene_name": "SRMS"}
 {"name": "SRPK1_HUMAN", "description": "Serine/threonine-protein kinase SRPK1", "uniprot": "Q96SB4", "chembl": "CHEMBL4375", "gene_name": "SRPK1"}
@@ -826,7 +731,6 @@
 {"name": "STK38_HUMAN", "description": "Serine/threonine-protein kinase 38", "uniprot": "Q15208", "chembl": "CHEMBL1075155", "gene_name": "STK38"}
 {"name": "STK39_HUMAN", "description": "STE20/SPS1-related proline-alanine-rich protein kinase", "uniprot": "Q9UEW8", "chembl": "CHEMBL1163108", "gene_name": "STK39"}
 {"name": "STK3_HUMAN", "description": "Serine/threonine-protein kinase MST2", "uniprot": "Q13188", "chembl": "CHEMBL4708", "gene_name": "STK3"}
-{"name": "STK3_MOUSE", "description": "Serine/threonine-protein kinase MST2", "uniprot": "Q9JI10", "chembl": "CHEMBL4310", "gene_name": "STK3"}
 {"name": "STK4_HUMAN", "description": "Serine/threonine-protein kinase MST1", "uniprot": "Q13043", "chembl": "CHEMBL4598", "gene_name": "STK4"}
 {"name": "STS_HUMAN", "description": "Steryl-sulfatase ", "uniprot": "P08842", "chembl": "CHEMBL3559", "gene_name": "STS"}
 {"name": "SYIC_HUMAN", "description": "Isoleucyl-tRNA synthetase", "uniprot": "P41252", "chembl": "CHEMBL3235", "gene_name": "IARS"}
@@ -836,9 +740,6 @@
 {"name": "TAOK2_HUMAN", "description": "Serine/threonine-protein kinase TAO2", "uniprot": "Q9UL54", "chembl": "CHEMBL1075195", "gene_name": "TAOK2"}
 {"name": "TAOK3_HUMAN", "description": "Serine/threonine-protein kinase TAO3", "uniprot": "Q9H2K8", "chembl": "CHEMBL5701", "gene_name": "TAOK3"}
 {"name": "TAU_HUMAN", "description": "Microtubule-associated protein tau", "uniprot": "P10636", "chembl": "CHEMBL1293224", "gene_name": "MAPT"}
-{"name": "TBA1A_PIG", "description": "Tubulin alpha chain ", "uniprot": "P02550", "chembl": "CHEMBL3658", "gene_name": "TUBA1A"}
-{"name": "TBA1A_RAT", "description": "Tubulin alpha-1 chain", "uniprot": "P68370", "chembl": "CHEMBL4139", "gene_name": "TUBA1A"}
-{"name": "TBB2B_BOVIN", "description": "Tubulin beta chain", "uniprot": "Q6B856", "chembl": "CHEMBL3394", "gene_name": "TUBB2B"}
 {"name": "TBB3_HUMAN", "description": "Tubulin beta-3 chain", "uniprot": "Q13509", "chembl": "CHEMBL2597", "gene_name": "TUBB3"}
 {"name": "TBK1_HUMAN", "description": "Serine/threonine-protein kinase TBK1", "uniprot": "Q9UHD2", "chembl": "CHEMBL5408", "gene_name": "TBK1"}
 {"name": "TEC_HUMAN", "description": "Tyrosine-protein kinase TEC", "uniprot": "P42680", "chembl": "CHEMBL4246", "gene_name": "TEC"}
@@ -854,7 +755,6 @@
 {"name": "THRB_HUMAN", "description": "Thrombin", "uniprot": "P00734", "chembl": "CHEMBL204", "gene_name": "F2"}
 {"name": "TIE1_HUMAN", "description": "Tyrosine-protein kinase receptor Tie-1", "uniprot": "P35590", "chembl": "CHEMBL5274", "gene_name": "TIE1"}
 {"name": "TIE2_HUMAN", "description": "Tyrosine-protein kinase TIE-2", "uniprot": "Q02763", "chembl": "CHEMBL4128", "gene_name": "TEK"}
-{"name": "TIE2_MOUSE", "description": "Tyrosine-protein kinase TIE-2", "uniprot": "Q02858", "chembl": "CHEMBL5199", "gene_name": "TEK"}
 {"name": "TLK1_HUMAN", "description": "Serine/threonine-protein kinase tousled-like 1", "uniprot": "Q9UKI8", "chembl": "CHEMBL5388", "gene_name": "TLK1"}
 {"name": "TLK2_HUMAN", "description": "Serine/threonine-protein kinase tousled-like 2", "uniprot": "Q86UE8", "chembl": "CHEMBL5404", "gene_name": "TLK2"}
 {"name": "TLR7_HUMAN", "description": "Toll-like receptor 7", "uniprot": "Q9NYK1", "chembl": "CHEMBL5936", "gene_name": "TLR7"}
@@ -880,19 +780,14 @@
 {"name": "TYK2_HUMAN", "description": "Tyrosine-protein kinase TYK2 ", "uniprot": "P29597", "chembl": "CHEMBL3553", "gene_name": "TYK2"}
 {"name": "TYRO3_HUMAN", "description": "Tyrosine-protein kinase receptor TYRO3", "uniprot": "Q06418", "chembl": "CHEMBL5314", "gene_name": "TYRO3"}
 {"name": "TYSY_HUMAN", "description": "Thymidylate synthase", "uniprot": "P04818", "chembl": "CHEMBL1952", "gene_name": "TYMS"}
-{"name": "TYSY_LACCA", "description": "Thymidylate synthase", "uniprot": "P00469", "chembl": "CHEMBL5328", "gene_name": "THYA"}
-{"name": "TYSY_MOUSE", "description": "Thymidylate synthase", "uniprot": "P07607", "chembl": "CHEMBL3160", "gene_name": "TYMS"}
-{"name": "TYSY_RAT", "description": "Thymidylate synthase", "uniprot": "P45352", "chembl": "CHEMBL4341", "gene_name": "TYMS"}
 {"name": "UFO_HUMAN", "description": "Tyrosine-protein kinase receptor UFO", "uniprot": "P30530", "chembl": "CHEMBL4895", "gene_name": "AXL"}
 {"name": "ULK1_HUMAN", "description": "Serine/threonine-protein kinase ULK1", "uniprot": "O75385", "chembl": "CHEMBL6006", "gene_name": "ULK1"}
 {"name": "ULK2_HUMAN", "description": "Serine/threonine-protein kinase ULK2", "uniprot": "Q8IYT8", "chembl": "CHEMBL5435", "gene_name": "ULK2"}
 {"name": "ULK3_HUMAN", "description": "Serine/threonine-protein kinase ULK3", "uniprot": "Q6PHR2", "chembl": "CHEMBL5047", "gene_name": "ULK3"}
-{"name": "ULK3_MOUSE", "description": "ULK3 kinase", "uniprot": "Q3U3Q1", "chembl": "CHEMBL3832", "gene_name": "ULK3"}
 {"name": "V1AR_HUMAN", "description": "Vasopressin V1a receptor", "uniprot": "P37288", "chembl": "CHEMBL1889", "gene_name": "AVPR1A"}
 {"name": "V2R_HUMAN", "description": "Vasopressin V2 receptor", "uniprot": "P30518", "chembl": "CHEMBL1790", "gene_name": "AVPR2"}
 {"name": "VDR_HUMAN", "description": "Vitamin D receptor", "uniprot": "P11473", "chembl": "CHEMBL1977", "gene_name": "VDR"}
 {"name": "VGFR1_HUMAN", "description": "Vascular endothelial growth factor receptor 1", "uniprot": "P17948", "chembl": "CHEMBL1868", "gene_name": "FLT1"}
-{"name": "VGFR2_DANRE", "description": "Vascular endothelial growth factor receptor 2", "uniprot": "Q5GIT4", "chembl": "CHEMBL2331049", "gene_name": "KDR"}
 {"name": "VGFR2_HUMAN", "description": "Vascular endothelial growth factor receptor 2", "uniprot": "P35968", "chembl": "CHEMBL279", "gene_name": "KDR"}
 {"name": "VGFR3_HUMAN", "description": "Vascular endothelial growth factor receptor 3", "uniprot": "P35916", "chembl": "CHEMBL1955", "gene_name": "FLT4"}
 {"name": "VRK2_HUMAN", "description": "Serine/threonine-protein kinase VRK2", "uniprot": "Q86Y07", "chembl": "CHEMBL1649059", "gene_name": "VRK2"}
