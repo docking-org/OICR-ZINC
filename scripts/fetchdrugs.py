@@ -8,7 +8,7 @@ from zinc.data.models.core import undefer
 from zinc.management import build_context
 from zinc.data.representations import object_formatter
 
-code =sys.argv[1]
+#code =sys.argv[1]
 
 build_context(context=globals(),environ=os.environ)
 logging.basicConfig(level=logging.INFO)
@@ -20,7 +20,10 @@ formatter = object_formatter('ldjson', fields)
 
 Record = namedtuple('Record',fields)
 
-q = Substance.query.filter(Substance.atc_code_names.in_([code]))
+q = db.session.query(Substance)
+#q = Substance.query.filter(Substance.atc_code_names.in_([code]))
+#q = q.with_subsets(['investigational'])  # This seems to be buggy (hidden subset)
+q = q.filter(Substance.features.overlap(['fda', 'world', 'investigational']))
 q = q.options(undefer(Substance.inchikey))
 q = q.yield_per(100)
 
