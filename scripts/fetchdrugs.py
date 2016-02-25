@@ -1,4 +1,4 @@
-#!/nfs/soft/www/apps/zinc15/envs/production/bin/python
+#!/usr/bin/env python
 # fetchdrugs.py
 
 from collections import namedtuple
