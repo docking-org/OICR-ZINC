@@ -1,0 +1,11 @@
+--2017-11-13 11:27:53--  http://zinc15.docking.org/trialconditions/subsets/cancer.ldjson?count=all
+Resolving zinc15.docking.org... 169.230.26.43
+Connecting to zinc15.docking.org|169.230.26.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-ldjson]
+Saving to: `conditions.ldjson'
+
+     0K .......... .......... ..                                426K=0.05s
+
+2017-11-13 11:27:54 (426 KB/s) - `conditions.ldjson' saved [23092]
+

@@ -1,0 +1,6 @@
+--2017-04-23 20:04:48--  http://zinc15.docking.org/substances/having/tools.ldjson?count=all&sort=no&output_fields=inchikey+preferred_name+synonyms+atc_classifications+genes+trials+zinc_id+references+tools
+Resolving zinc15.docking.org... 169.230.26.43
+Connecting to zinc15.docking.org|169.230.26.43|:80... connected.
+HTTP request sent, awaiting response... 500 INTERNAL SERVER ERROR
+2017-04-23 20:04:58 ERROR 500: INTERNAL SERVER ERROR.
+

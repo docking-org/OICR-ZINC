@@ -1,0 +1,15 @@
+--2017-11-13 11:37:52--  http://zinc15.docking.org/orthologs/having/substances/subsets/in-trials.ldjson?organism_name=Eukaryotes&count=all
+Resolving zinc15.docking.org... 169.230.26.43
+Connecting to zinc15.docking.org|169.230.26.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-ldjson]
+Saving to: `genes2.txt'
+
+     0K .......... .......... .......... .......... .......... 52.4K
+    50K .......... .......... .......... .......... .......... 33.9K
+   100K .......... .......... .......... .......... .......... 42.2K
+   150K .......... .......... .......... .......... .......... 72.5K
+   200K .......... .......... .......... .......... .          86.6K=4.8s
+
+2017-11-13 11:37:57 (50.5 KB/s) - `genes2.txt' saved [247045]
+

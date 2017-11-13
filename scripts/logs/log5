@@ -1,0 +1,14 @@
+--2017-11-13 11:37:42--  http://zinc15.docking.org/orthologs/having/substances.ldjson?related.trials-memberof=cancer&organism_name=Eukaryotes&count=all
+Resolving zinc15.docking.org... 169.230.26.43
+Connecting to zinc15.docking.org|169.230.26.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-ldjson]
+Saving to: `genes.txt'
+
+     0K .......... .......... .......... .......... .......... 31.8K
+    50K .......... .......... .......... .......... .......... 19.8K
+   100K .......... .......... .......... .......... .......... 16.6K
+   150K .......... .......                                      654K=7.1s
+
+2017-11-13 11:37:52 (23.5 KB/s) - `genes.txt' saved [171752]
+

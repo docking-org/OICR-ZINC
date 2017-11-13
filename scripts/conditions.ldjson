@@ -1,0 +1,385 @@
+{"name": "Paraneoplastic Syndromes, Nervous System", "class_name": "cancer"}
+{"name": "Paraneoplastic Polyneuropathy", "class_name": "cancer"}
+{"name": "Paraneoplastic Syndromes", "class_name": "cancer"}
+{"name": "Prostatic Intraepithelial Neoplasia", "class_name": "cancer"}
+{"name": "Neoplastic Processes", "class_name": "cancer"}
+{"name": "Neoplasms, Squamous Cell", "class_name": "cancer"}
+{"name": "Colorectal Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms", "class_name": "cancer"}
+{"name": "Lung Neoplasms", "class_name": "cancer"}
+{"name": "Pelvic Neoplasms", "class_name": "cancer"}
+{"name": "Facial Neoplasms", "class_name": "cancer"}
+{"name": "Iris Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Radiation-Induced", "class_name": "cancer"}
+{"name": "Otorhinolaryngologic Neoplasms", "class_name": "cancer"}
+{"name": "Conjunctival Neoplasms", "class_name": "cancer"}
+{"name": "Liver Neoplasms, Experimental", "class_name": "cancer"}
+{"name": "Neoplasms, Experimental", "class_name": "cancer"}
+{"name": "Tracheal Neoplasms", "class_name": "cancer"}
+{"name": "Maxillary Sinus Neoplasms", "class_name": "cancer"}
+{"name": "Nose Neoplasms", "class_name": "cancer"}
+{"name": "Bone Marrow Neoplasms", "class_name": "cancer"}
+{"name": "Cerebellar Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Adipose Tissue", "class_name": "cancer"}
+{"name": "Neoplasms, Adnexal and Skin Appendage", "class_name": "cancer"}
+{"name": "Neoplasms, Cystic, Mucinous, and Serous", "class_name": "cancer"}
+{"name": "Neoplasms, Basal Cell", "class_name": "cancer"}
+{"name": "Neoplasms, Vascular Tissue", "class_name": "cancer"}
+{"name": "Perivascular Epithelioid Cell Neoplasms", "class_name": "cancer"}
+{"name": "Parotid Neoplasms", "class_name": "cancer"}
+{"name": "Common Bile Duct Neoplasms", "class_name": "cancer"}
+{"name": "Retroperitoneal Neoplasms", "class_name": "cancer"}
+{"name": "Optic Nerve Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasm Regression, Spontaneous", "class_name": "cancer"}
+{"name": "Mammary Neoplasms, Animal", "class_name": "cancer"}
+{"name": "Pleural Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Neuroepithelial", "class_name": "cancer"}
+{"name": "Brain Stem Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Connective and Soft Tissue", "class_name": "cancer"}
+{"name": "Neoplasms, Connective Tissue", "class_name": "cancer"}
+{"name": "Adrenal Cortex Neoplasms", "class_name": "cancer"}
+{"name": "Choroid Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasm Recurrence, Local", "class_name": "cancer"}
+{"name": "Neoplasms, Multiple Primary", "class_name": "cancer"}
+{"name": "Heart Neoplasms", "class_name": "cancer"}
+{"name": "Retinal Neoplasms", "class_name": "cancer"}
+{"name": "Trophoblastic Neoplasms", "class_name": "cancer"}
+{"name": "Infratentorial Neoplasms", "class_name": "cancer"}
+{"name": "Choroid Plexus Neoplasms", "class_name": "cancer"}
+{"name": "Inflammatory Breast Neoplasms", "class_name": "cancer"}
+{"name": "Sweat Gland Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Unknown Primary", "class_name": "cancer"}
+{"name": "Peripheral Nervous System Neoplasms", "class_name": "cancer"}
+{"name": "Skull Base Neoplasms", "class_name": "cancer"}
+{"name": "Unilateral Breast Neoplasms", "class_name": "cancer"}
+{"name": "Meningeal Neoplasms", "class_name": "cancer"}
+{"name": "Supratentorial Neoplasms", "class_name": "cancer"}
+{"name": "Parathyroid Neoplasms", "class_name": "cancer"}
+{"name": "Paranasal Sinus Neoplasms", "class_name": "cancer"}
+{"name": "Spinal Neoplasms", "class_name": "cancer"}
+{"name": "Spinal Cord Neoplasms", "class_name": "cancer"}
+{"name": "Maxillary Neoplasms", "class_name": "cancer"}
+{"name": "Mandibular Neoplasms", "class_name": "cancer"}
+{"name": "Pharyngeal Neoplasms", "class_name": "cancer"}
+{"name": "Uveal Neoplasms", "class_name": "cancer"}
+{"name": "Adrenal Gland Neoplasms", "class_name": "cancer"}
+{"name": "Sigmoid Neoplasms", "class_name": "cancer"}
+{"name": "Endocrine Gland Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms by Histologic Type", "class_name": "cancer"}
+{"name": "Colonic Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Hormone-Dependent", "class_name": "cancer"}
+{"name": "Breast Neoplasms, Male", "class_name": "cancer"}
+{"name": "Penile Neoplasms", "class_name": "cancer"}
+{"name": "Colorectal Neoplasms, Hereditary Nonpolyposis", "class_name": "cancer"}
+{"name": "Hypopharyngeal Neoplasms", "class_name": "cancer"}
+{"name": "Anus Neoplasms", "class_name": "cancer"}
+{"name": "Urogenital Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms by Site", "class_name": "cancer"}
+{"name": "Hypothalamic Neoplasms", "class_name": "cancer"}
+{"name": "Testicular Neoplasms", "class_name": "cancer"}
+{"name": "Pituitary Neoplasms", "class_name": "cancer"}
+{"name": "Prostatic Neoplasms, Castration-Resistant", "class_name": "cancer"}
+{"name": "Tongue Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasm, Residual", "class_name": "cancer"}
+{"name": "Jejunal Neoplasms", "class_name": "cancer"}
+{"name": "Ileal Neoplasms", "class_name": "cancer"}
+{"name": "Duodenal Neoplasms", "class_name": "cancer"}
+{"name": "Orbital Neoplasms", "class_name": "cancer"}
+{"name": "Endometrial Neoplasms", "class_name": "cancer"}
+{"name": "Appendiceal Neoplasms", "class_name": "cancer"}
+{"name": "Gallbladder Neoplasms", "class_name": "cancer"}
+{"name": "Central Nervous System Neoplasms", "class_name": "cancer"}
+{"name": "Nervous System Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Germ Cell and Embryonal", "class_name": "cancer"}
+{"name": "Skin Neoplasms", "class_name": "cancer"}
+{"name": "Thymus Neoplasms", "class_name": "cancer"}
+{"name": "Nasopharyngeal Neoplasms", "class_name": "cancer"}
+{"name": "Peritoneal Neoplasms", "class_name": "cancer"}
+{"name": "Fallopian Tube Neoplasms", "class_name": "cancer"}
+{"name": "Mediastinal Neoplasms", "class_name": "cancer"}
+{"name": "Laryngeal Neoplasms", "class_name": "cancer"}
+{"name": "Salivary Gland Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Nerve Tissue", "class_name": "cancer"}
+{"name": "Bile Duct Neoplasms", "class_name": "cancer"}
+{"name": "Bronchial Neoplasms", "class_name": "cancer"}
+{"name": "Respiratory Tract Neoplasms", "class_name": "cancer"}
+{"name": "Biliary Tract Neoplasms", "class_name": "cancer"}
+{"name": "Uterine Neoplasms", "class_name": "cancer"}
+{"name": "Nerve Sheath Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Fibrous Tissue", "class_name": "cancer"}
+{"name": "Soft Tissue Neoplasms", "class_name": "cancer"}
+{"name": "Bone Neoplasms", "class_name": "cancer"}
+{"name": "Thyroid Neoplasms", "class_name": "cancer"}
+{"name": "Genital Neoplasms, Male", "class_name": "cancer"}
+{"name": "Genital Neoplasms, Female", "class_name": "cancer"}
+{"name": "Kidney Neoplasms", "class_name": "cancer"}
+{"name": "Head and Neck Neoplasms", "class_name": "cancer"}
+{"name": "Triple Negative Breast Neoplasms", "class_name": "cancer"}
+{"name": "Urethral Neoplasms", "class_name": "cancer"}
+{"name": "Ureteral Neoplasms", "class_name": "cancer"}
+{"name": "Urologic Neoplasms", "class_name": "cancer"}
+{"name": "Vaginal Neoplasms", "class_name": "cancer"}
+{"name": "Mouth Neoplasms", "class_name": "cancer"}
+{"name": "Vulvar Neoplasms", "class_name": "cancer"}
+{"name": "Ovarian Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Glandular and Epithelial", "class_name": "cancer"}
+{"name": "Abdominal Neoplasms", "class_name": "cancer"}
+{"name": "Digestive System Neoplasms", "class_name": "cancer"}
+{"name": "Urinary Bladder Neoplasms", "class_name": "cancer"}
+{"name": "Hematologic Neoplasms", "class_name": "cancer"}
+{"name": "Rectal Neoplasms", "class_name": "cancer"}
+{"name": "Stomach Neoplasms", "class_name": "cancer"}
+{"name": "Lip Neoplasms", "class_name": "cancer"}
+{"name": "Esophageal Neoplasms", "class_name": "cancer"}
+{"name": "Uterine Cervical Neoplasms", "class_name": "cancer"}
+{"name": "Pancreatic Neoplasms", "class_name": "cancer"}
+{"name": "Brain Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Second Primary", "class_name": "cancer"}
+{"name": "Tonsillar Neoplasms", "class_name": "cancer"}
+{"name": "Oropharyngeal Neoplasms", "class_name": "cancer"}
+{"name": "Breast Neoplasms", "class_name": "cancer"}
+{"name": "Thoracic Neoplasms", "class_name": "cancer"}
+{"name": "Liver Neoplasms", "class_name": "cancer"}
+{"name": "Composite Lymphoma", "class_name": "cancer"}
+{"name": "Intraocular Lymphoma", "class_name": "cancer"}
+{"name": "Lymphoma, Primary Cutaneous Anaplastic Large Cell", "class_name": "cancer"}
+{"name": "Lymphomatoid Papulosis", "class_name": "cancer"}
+{"name": "Lymphoma, Large-Cell, Immunoblastic", "class_name": "cancer"}
+{"name": "Plasmablastic Lymphoma", "class_name": "cancer"}
+{"name": "Lymphoma, Primary Effusion", "class_name": "cancer"}
+{"name": "Lymphomatoid Granulomatosis", "class_name": "cancer"}
+{"name": "Lymphoma, Extranodal NK-T-Cell", "class_name": "cancer"}
+{"name": "Burkitt Lymphoma", "class_name": "cancer"}
+{"name": "Pseudolymphoma", "class_name": "cancer"}
+{"name": "Lymphoma, T-Cell, Cutaneous", "class_name": "cancer"}
+{"name": "Lymphoma, Large-Cell, Anaplastic", "class_name": "cancer"}
+{"name": "Lymphoma, T-Cell, Peripheral", "class_name": "cancer"}
+{"name": "Enteropathy-Associated T-Cell Lymphoma", "class_name": "cancer"}
+{"name": "Lymphoma, T-Cell", "class_name": "cancer"}
+{"name": "Lymphoma, Mantle-Cell", "class_name": "cancer"}
+{"name": "Lymphoma, B-Cell, Marginal Zone", "class_name": "cancer"}
+{"name": "Lymphoma, Large B-Cell, Diffuse", "class_name": "cancer"}
+{"name": "Lymphoma, B-Cell", "class_name": "cancer"}
+{"name": "Lymphoma, Non-Hodgkin", "class_name": "cancer"}
+{"name": "Lymphoma, Follicular", "class_name": "cancer"}
+{"name": "Lymphoma", "class_name": "cancer"}
+{"name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma", "class_name": "cancer"}
+{"name": "Lymphoma, AIDS-Related", "class_name": "cancer"}
+{"name": "Lymphatic Metastasis", "class_name": "cancer"}
+{"name": "Leukoplakia", "class_name": "cancer"}
+{"name": "Leukoplakia, Hairy", "class_name": "cancer"}
+{"name": "Leukocyte-Adhesion Deficiency Syndrome", "class_name": "cancer"}
+{"name": "Vasculitis, Leukocytoclastic, Cutaneous", "class_name": "cancer"}
+{"name": "Leukodystrophy, Metachromatic", "class_name": "cancer"}
+{"name": "Posterior Leukoencephalopathy Syndrome", "class_name": "cancer"}
+{"name": "Leukocyte Disorders", "class_name": "cancer"}
+{"name": "Leukocytosis", "class_name": "cancer"}
+{"name": "Leukoencephalopathy, Progressive Multifocal", "class_name": "cancer"}
+{"name": "Leukodystrophy, Globoid Cell", "class_name": "cancer"}
+{"name": "Leukopenia", "class_name": "cancer"}
+{"name": "Leukoplakia, Oral", "class_name": "cancer"}
+{"name": "Leukoencephalopathies", "class_name": "cancer"}
+{"name": "Leukomalacia, Periventricular", "class_name": "cancer"}
+{"name": "Leukoaraiosis", "class_name": "cancer"}
+{"name": "Adrenoleukodystrophy", "class_name": "cancer"}
+{"name": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive", "class_name": "cancer"}
+{"name": "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma", "class_name": "cancer"}
+{"name": "Leukemia, Eosinophilic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Basophilic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Neutrophilic, Chronic", "class_name": "cancer"}
+{"name": "Leukemia, Myeloid, Accelerated Phase", "class_name": "cancer"}
+{"name": "Leukemia, Monocytic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Erythroblastic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Megakaryoblastic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative", "class_name": "cancer"}
+{"name": "Leukemia, Plasma Cell", "class_name": "cancer"}
+{"name": "Leukemia, Prolymphocytic, T-Cell", "class_name": "cancer"}
+{"name": "Leukemia, Large Granular Lymphocytic", "class_name": "cancer"}
+{"name": "Leukemia, Hairy Cell", "class_name": "cancer"}
+{"name": "Leukemia, Prolymphocytic, B-Cell", "class_name": "cancer"}
+{"name": "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma", "class_name": "cancer"}
+{"name": "Leukemia, Promyelocytic, Acute", "class_name": "cancer"}
+{"name": "Leukemia-Lymphoma, Adult T-Cell", "class_name": "cancer"}
+{"name": "Leukemia, T-Cell", "class_name": "cancer"}
+{"name": "Leukemia, B-Cell", "class_name": "cancer"}
+{"name": "Leukemia, Prolymphocytic", "class_name": "cancer"}
+{"name": "Leukemia, Myelomonocytic, Juvenile", "class_name": "cancer"}
+{"name": "Leukemia, Myelomonocytic, Chronic", "class_name": "cancer"}
+{"name": "Leukemia, Myelomonocytic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Biphenotypic, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Myeloid, Chronic-Phase", "class_name": "cancer"}
+{"name": "Leukemia, Mast-Cell", "class_name": "cancer"}
+{"name": "Leukemia, Lymphocytic, Chronic, B-Cell", "class_name": "cancer"}
+{"name": "Leukemia, Lymphoid", "class_name": "cancer"}
+{"name": "Preleukemia", "class_name": "cancer"}
+{"name": "Leukemia, Myeloid, Acute", "class_name": "cancer"}
+{"name": "Leukemia, Myeloid", "class_name": "cancer"}
+{"name": "Leukemia", "class_name": "cancer"}
+{"name": "Hematoma, Epidural, Spinal", "class_name": "cancer"}
+{"name": "Hematoma, Epidural, Cranial", "class_name": "cancer"}
+{"name": "Hematoma, Subdural, Intracranial", "class_name": "cancer"}
+{"name": "Hematoma, Subdural, Chronic", "class_name": "cancer"}
+{"name": "Hematoma, Subdural, Acute", "class_name": "cancer"}
+{"name": "Hematoma, Subdural", "class_name": "cancer"}
+{"name": "Hematoma", "class_name": "cancer"}
+{"name": "Ameloblastoma", "class_name": "cancer"}
+{"name": "Blastocystis Infections", "class_name": "cancer"}
+{"name": "Hemangioblastoma", "class_name": "cancer"}
+{"name": "Blastomycosis", "class_name": "cancer"}
+{"name": "Nesidioblastosis", "class_name": "cancer"}
+{"name": "Pulmonary Blastoma", "class_name": "cancer"}
+{"name": "Erythroblastosis, Fetal", "class_name": "cancer"}
+{"name": "Retinoblastoma", "class_name": "cancer"}
+{"name": "Hepatoblastoma", "class_name": "cancer"}
+{"name": "Medulloblastoma", "class_name": "cancer"}
+{"name": "Glioblastoma", "class_name": "cancer"}
+{"name": "Esthesioneuroblastoma, Olfactory", "class_name": "cancer"}
+{"name": "Ganglioneuroblastoma", "class_name": "cancer"}
+{"name": "Neuroblastoma", "class_name": "cancer"}
+{"name": "Atypical Squamous Cells of the Cervix", "class_name": "cancer"}
+{"name": "Squamous Intraepithelial Lesions of the Cervix", "class_name": "cancer"}
+{"name": "Skin Diseases, Papulosquamous", "class_name": "cancer"}
+{"name": "Carcinoma, Adenosquamous", "class_name": "cancer"}
+{"name": "Carcinoma, Basosquamous", "class_name": "cancer"}
+{"name": "Carcinoma, Squamous Cell", "class_name": "cancer"}
+{"name": "Glomus Tumor", "class_name": "cancer"}
+{"name": "Granular Cell Tumor", "class_name": "cancer"}
+{"name": "Mixed Tumor, Mesodermal", "class_name": "cancer"}
+{"name": "Phyllodes Tumor", "class_name": "cancer"}
+{"name": "Sertoli-Leydig Cell Tumor", "class_name": "cancer"}
+{"name": "Granulosa Cell Tumor", "class_name": "cancer"}
+{"name": "Tumor Lysis Syndrome", "class_name": "cancer"}
+{"name": "Leydig Cell Tumor", "class_name": "cancer"}
+{"name": "Brenner Tumor", "class_name": "cancer"}
+{"name": "Krukenberg Tumor", "class_name": "cancer"}
+{"name": "Odontogenic Tumors", "class_name": "cancer"}
+{"name": "Orbital Pseudotumor", "class_name": "cancer"}
+{"name": "Sex Cord-Gonadal Stromal Tumors", "class_name": "cancer"}
+{"name": "Solitary Fibrous Tumor, Pleural", "class_name": "cancer"}
+{"name": "Trophoblastic Tumor, Placental Site", "class_name": "cancer"}
+{"name": "Endometrial Stromal Tumors", "class_name": "cancer"}
+{"name": "Mixed Tumor, Malignant", "class_name": "cancer"}
+{"name": "Desmoplastic Small Round Cell Tumor", "class_name": "cancer"}
+{"name": "Giant Cell Tumor of Bone", "class_name": "cancer"}
+{"name": "Giant Cell Tumors", "class_name": "cancer"}
+{"name": "Solitary Fibrous Tumors", "class_name": "cancer"}
+{"name": "Endodermal Sinus Tumor", "class_name": "cancer"}
+{"name": "Pseudotumor Cerebri", "class_name": "cancer"}
+{"name": "Klatskin Tumor", "class_name": "cancer"}
+{"name": "Mixed Tumor, Mullerian", "class_name": "cancer"}
+{"name": "Rhabdoid Tumor", "class_name": "cancer"}
+{"name": "Neuroectodermal Tumors, Primitive, Peripheral", "class_name": "cancer"}
+{"name": "Wilms Tumor", "class_name": "cancer"}
+{"name": "Neuroectodermal Tumors, Primitive", "class_name": "cancer"}
+{"name": "Neuroectodermal Tumors", "class_name": "cancer"}
+{"name": "Carcinoid Tumor", "class_name": "cancer"}
+{"name": "Neuroendocrine Tumors", "class_name": "cancer"}
+{"name": "Cell Transformation, Neoplastic", "class_name": "cancer"}
+{"name": "Pregnancy Complications, Neoplastic", "class_name": "cancer"}
+{"name": "Multiple Endocrine Neoplasia Type 2b", "class_name": "cancer"}
+{"name": "Multiple Endocrine Neoplasia Type 1", "class_name": "cancer"}
+{"name": "Multiple Endocrine Neoplasia Type 2a", "class_name": "cancer"}
+{"name": "Multiple Endocrine Neoplasia", "class_name": "cancer"}
+{"name": "Neoplastic Syndromes, Hereditary", "class_name": "cancer"}
+{"name": "Neoplastic Cells, Circulating", "class_name": "cancer"}
+{"name": "Eye Neoplasms", "class_name": "cancer"}
+{"name": "Cervical Intraepithelial Neoplasia", "class_name": "cancer"}
+{"name": "Neoplasm Micrometastasis", "class_name": "cancer"}
+{"name": "Neoplasm Metastasis", "class_name": "cancer"}
+{"name": "Intestinal Neoplasms", "class_name": "cancer"}
+{"name": "Gastrointestinal Neoplasms", "class_name": "cancer"}
+{"name": "Neoplasms, Plasma Cell", "class_name": "cancer"}
+{"name": "Prostatic Neoplasms", "class_name": "cancer"}
+{"name": "Adenoma, Acidophil", "class_name": "cancer"}
+{"name": "Adenoma, Chromophobe", "class_name": "cancer"}
+{"name": "Adenoma, Basophil", "class_name": "cancer"}
+{"name": "Adenoma, Pleomorphic", "class_name": "cancer"}
+{"name": "Cystic Adenomatoid Malformation of Lung, Congenital", "class_name": "cancer"}
+{"name": "Adenoma, Villous", "class_name": "cancer"}
+{"name": "Cystadenoma, Serous", "class_name": "cancer"}
+{"name": "Cystadenoma, Mucinous", "class_name": "cancer"}
+{"name": "Growth Hormone-Secreting Pituitary Adenoma", "class_name": "cancer"}
+{"name": "Adenoma, Liver Cell", "class_name": "cancer"}
+{"name": "Adrenocortical Adenoma", "class_name": "cancer"}
+{"name": "Adenoma, Bile Duct", "class_name": "cancer"}
+{"name": "Fibroadenoma", "class_name": "cancer"}
+{"name": "Adenomatous Polyposis Coli", "class_name": "cancer"}
+{"name": "ACTH-Secreting Pituitary Adenoma", "class_name": "cancer"}
+{"name": "Cystadenoma", "class_name": "cancer"}
+{"name": "Adenoma, Islet Cell", "class_name": "cancer"}
+{"name": "Adenoma", "class_name": "cancer"}
+{"name": "Adenomatous Polyps", "class_name": "cancer"}
+{"name": "Mast-Cell Sarcoma", "class_name": "cancer"}
+{"name": "Dermatofibrosarcoma", "class_name": "cancer"}
+{"name": "Histiocytic Sarcoma", "class_name": "cancer"}
+{"name": "Sarcoma, Myeloid", "class_name": "cancer"}
+{"name": "Chondrosarcoma, Mesenchymal", "class_name": "cancer"}
+{"name": "Sarcoma, Endometrial Stromal", "class_name": "cancer"}
+{"name": "Liposarcoma, Myxoid", "class_name": "cancer"}
+{"name": "Fibrosarcoma", "class_name": "cancer"}
+{"name": "Sarcoma, Synovial", "class_name": "cancer"}
+{"name": "Adenosarcoma", "class_name": "cancer"}
+{"name": "Hemangiosarcoma", "class_name": "cancer"}
+{"name": "Rhabdomyosarcoma, Alveolar", "class_name": "cancer"}
+{"name": "Leiomyosarcoma", "class_name": "cancer"}
+{"name": "Sarcoma, Clear Cell", "class_name": "cancer"}
+{"name": "Sarcoma, Alveolar Soft Part", "class_name": "cancer"}
+{"name": "Chondrosarcoma", "class_name": "cancer"}
+{"name": "Liposarcoma", "class_name": "cancer"}
+{"name": "Gliosarcoma", "class_name": "cancer"}
+{"name": "Carcinosarcoma", "class_name": "cancer"}
+{"name": "Rhabdomyosarcoma, Embryonal", "class_name": "cancer"}
+{"name": "Sarcoma, Ewing", "class_name": "cancer"}
+{"name": "Rhabdomyosarcoma", "class_name": "cancer"}
+{"name": "Neurofibrosarcoma", "class_name": "cancer"}
+{"name": "Sarcoma, Kaposi", "class_name": "cancer"}
+{"name": "Sarcoma", "class_name": "cancer"}
+{"name": "Osteosarcoma", "class_name": "cancer"}
+{"name": "Carcinoma, Giant Cell", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Scirrhous", "class_name": "cancer"}
+{"name": "Carcinoma, Mucoepidermoid", "class_name": "cancer"}
+{"name": "Cystadenocarcinoma, Mucinous", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Bronchiolo-Alveolar", "class_name": "cancer"}
+{"name": "Carcinoma, Verrucous", "class_name": "cancer"}
+{"name": "Carcinoma, Acinar Cell", "class_name": "cancer"}
+{"name": "Carcinoma, Medullary", "class_name": "cancer"}
+{"name": "Carcinoma, Islet Cell", "class_name": "cancer"}
+{"name": "Carcinoma, Non-Small-Cell Lung", "class_name": "cancer"}
+{"name": "Carcinoma, Large Cell", "class_name": "cancer"}
+{"name": "Carcinoma, Lobular", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Follicular", "class_name": "cancer"}
+{"name": "Carcinoma, Papillary", "class_name": "cancer"}
+{"name": "Eccrine Porocarcinoma", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Sebaceous", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Mucinous", "class_name": "cancer"}
+{"name": "Carcinoma, Skin Appendage", "class_name": "cancer"}
+{"name": "Carcinoma, Signet Ring Cell", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Papillary", "class_name": "cancer"}
+{"name": "Carcinoma, Pancreatic Ductal", "class_name": "cancer"}
+{"name": "Adenocarcinoma in Situ", "class_name": "cancer"}
+{"name": "Choriocarcinoma", "class_name": "cancer"}
+{"name": "Carcinoma, Embryonal", "class_name": "cancer"}
+{"name": "Carcinoma, Adenoid Cystic", "class_name": "cancer"}
+{"name": "Meningeal Carcinomatosis", "class_name": "cancer"}
+{"name": "Adenocarcinoma, Clear Cell", "class_name": "cancer"}
+{"name": "Carcinoma, Endometrioid", "class_name": "cancer"}
+{"name": "Adrenocortical Carcinoma", "class_name": "cancer"}
+{"name": "Cystadenocarcinoma, Serous", "class_name": "cancer"}
+{"name": "Cystadenocarcinoma", "class_name": "cancer"}
+{"name": "Carcinoma, Basal Cell", "class_name": "cancer"}
+{"name": "Thyroid Carcinoma, Anaplastic", "class_name": "cancer"}
+{"name": "Carcinoma, Small Cell", "class_name": "cancer"}
+{"name": "Carcinoma, Merkel Cell", "class_name": "cancer"}
+{"name": "Carcinoma, Ductal, Breast", "class_name": "cancer"}
+{"name": "Carcinoma, Bronchogenic", "class_name": "cancer"}
+{"name": "Cholangiocarcinoma", "class_name": "cancer"}
+{"name": "Carcinoma, Intraductal, Noninfiltrating", "class_name": "cancer"}
+{"name": "Carcinoma, Ductal", "class_name": "cancer"}
+{"name": "Carcinoma, Neuroendocrine", "class_name": "cancer"}
+{"name": "Carcinoma in Situ", "class_name": "cancer"}
+{"name": "Carcinoma, Transitional Cell", "class_name": "cancer"}
+{"name": "Adenocarcinoma", "class_name": "cancer"}
+{"name": "Carcinoma, Renal Cell", "class_name": "cancer"}
+{"name": "Small Cell Lung Carcinoma", "class_name": "cancer"}
+{"name": "Carcinoma, Hepatocellular", "class_name": "cancer"}
+{"name": "Carcinoma", "class_name": "cancer"}

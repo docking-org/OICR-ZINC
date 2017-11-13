@@ -69,7 +69,7 @@ def create_record(query):
         data['external_references'] = {}
         data['external_references']['drugbank'] = [item.supplier_code for item in result.catitems.filter_by(catalog_short_name='dball')]
         data['external_references']['chembl'] = [item.supplier_code for item in result.catitems.filter_by(catalog_short_name='chembl20')]
-        data['image_url'] = 'http://zinc15.docking.org/substances/{0.zinc_id}.png'.format(result)
+        data['image_url'] = 'https://zinc15.docking.org/substances/{0.zinc_id}.png'.format(result)
         record=Record(**data) 
 	yield record
  
